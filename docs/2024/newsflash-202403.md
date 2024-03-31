@@ -76,3 +76,40 @@
 
    https://docs.tboox.org/#/zh-cn/getting_started
 
+
+
+## 2024.03.31
+
+2024年3月31日 💡行业快讯
+
+1. 2024全球开发者先锋大会（GDC）活动回顾：openEuler for AI, AI for openEuler 内容分享。
+
+   https://mp.weixin.qq.com/s/gewQrZ9YXRVVOz6ISUDg4w
+
+2. Linux 基金会宣布创建了一个 Redis 的开源分支 —— Valkey，它基于 Redis 7.2.4 进行开发，并将保持该项目在 BSD-3-Clause 许可下的使用和发布。
+
+   https://www.oschina.net/news/285265/linux-foundation-open-source-valkey
+
+3. 中国信息化百人会执委安筱鹏接受了《中国电子报》记者的独家专访，称中国没有“百模大战”，未来也不会有“十模大战”。
+
+   https://mp.weixin.qq.com/s/qrFtSTJL8oON3Jya8eLFpg
+
+4. 马斯克旗下的 AI 初创公司 xAI 宣布了其最新的生成式人工智能模型 Grok-1.5，构建在基于 JAX、Rust 和 Kubernetes 的自定义分布式训练框架之上，能够进行长上下文理解和高级推理。
+
+   https://www.oschina.net/news/285570/grok-1-5
+
+5. 红帽发布了一份 “针对 Fedora Linux 40 和 Fedora Rawhide 用户的紧急安全警报” 指出，最新版本的 xz 5.6.0/5.6.1 工具和库中包含恶意代码，可能允许未经授权的远程系统访问。
+
+   https://www.oschina.net/news/285463/xz-cve-2024-3094
+
+6. 2018 年春季发表的一篇科学论文《Attention Is All You Need》共有八位作者，他们都是来自谷歌的研究人员，现已全部离开谷歌，其中 7 人创业，1 人转奔 OpenAI。
+
+   https://www.infoq.cn/article/wPO7BHoI1p3NG61U3dN0
+
+7. freeCodeCamp 发布了一个完整的后端开发路线图，提供共80小时的免费课程。
+
+   https://www.freecodecamp.org/news/back-end-developer
+
+8. 电动汽车的最大缺点是，大部分能量用来移动电池，而不是移动乘客。
+
+   https://news.ycombinator.com/item?id=38835304
