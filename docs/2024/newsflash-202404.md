@@ -78,3 +78,40 @@
 
    https://juejin.cn/post/7345756317557047306
 
+
+
+## 2024.04.03
+
+2024年4月3日 💡行业快讯
+
+1. 4月3日7:58左右，中国台湾东部海域附近发生里氏 7.2 级地震，随后又发生 6.5 级强震及小规模余震，是台湾25年内最强震，各大晶圆厂紧急停机疏散中。
+
+   https://mp.weixin.qq.com/s/1Xemi89_BsbjIn5vEzYjXw
+
+2. 开源之夏 2024 社区名单揭晓，集结 168 家开源社区，覆盖了操作系统、编译器、RISC-V、人工智能、大数据、分布式、云原生等诸多热门技术领域。
+
+   https://mp.weixin.qq.com/s/9ExBWGoFPzZ0_SrpAcosZg
+
+3. openEuler 社区发布2024年3月运作报告：AI SIG 更名为 AI-Infra SIG；首款搭载 openEuler 的 RISC-V 机器人小车解决方案落地，可实现机器人运动控制、AI 视觉交互、SLAM 建图导航、多机同步控制等多项功能。
+
+   https://mp.weixin.qq.com/s/eLfBE16ZNWOquRZT2EpLNg
+
+4. RT-Thread 培训预告：4月10日将在深圳福田举办 RT-Thread 混合部署线下 workshop，在瑞芯微 RK3568 平台上实现同时运行 RT-Thread 和 Linux 系统。
+
+   https://mp.weixin.qq.com/s/d6xof8b6vE5xLn-k28r8Zw
+
+5. STM32MPU 培训预告：4月16日厦门、4月18日深圳，学习 STM32MP13x 芯片的启动过程配置及原理，结合集成编译器 Buildroot 制作启动镜像，将 Bootloader，Kernel 以及文件系统集成到 Buildroot 编译环境下，一次性制作启动镜像，轻松实现代码管理。
+
+   https://mp.weixin.qq.com/s/oF6OUA8zi1pCoTdHbZzWOg
+
+6. OpenCompass 司南大模型评测团队针对国内外主流大语言模型进行了全面诊断，现已公布 2024 年 3 月大语言模型最新评测榜单！
+
+   https://mp.weixin.qq.com/s/NJiTSVgNj4BmXXXp-px90Q
+
+7. 大模型领域的风向标：2024 全球机器学习技术大会50+议题揭秘！
+
+   https://mp.weixin.qq.com/s/POOarnyBr9MdXDnA0FL6tg
+
+8. 为确保开发者能够轻松、快速地构建准确、高效的人工智能算法，以经济的方式将算法部署在资源受限的边缘计算设备上，NanoEdge AI Studio 现已完全免费，允许在所有 STM32 MCU 上免费无限量部署。
+
+   https://mp.weixin.qq.com/s/CQUJK2Ile7rff4hXFD6dlQ
