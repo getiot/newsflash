@@ -115,3 +115,42 @@
 8. 为确保开发者能够轻松、快速地构建准确、高效的人工智能算法，以经济的方式将算法部署在资源受限的边缘计算设备上，NanoEdge AI Studio 现已完全免费，允许在所有 STM32 MCU 上免费无限量部署。
 
    https://mp.weixin.qq.com/s/CQUJK2Ile7rff4hXFD6dlQ
+
+
+
+## 2024.04.04
+
+2024年4月4日 💡行业快讯
+
+1. 世界首个 AI 程序员 Devin 诞生不足一个月，普林斯顿就推出了全新的「开源版本」—— SWE-agent！在 GPT-4 的加持下，debug 只需 93 秒，准确率几乎不相上下。
+
+   https://mp.weixin.qq.com/s/Mr4yv6t3-k7K5H5or5aGNg
+
+2. 立创开源硬件平台：三月优质项目推荐。
+
+   https://mp.weixin.qq.com/s/9jKdBtuTQgzr16qmLGDHCg
+
+3. OpenAtom OpenHarmony 4.1 Release 版本已发布，开发套件同步升级到 API 11 Release。
+
+   https://www.oschina.net/news/286168/openharmony-v4-1-release
+
+4. 某开源公司实习生上班时间向其他开源项目提交 PR，CEO 发现后要求关闭。
+
+   https://www.oschina.net/news/286075
+
+5. 本地多个 Git 邮箱身份，commit 的时候不方便，怎么整？
+
+   https://www.oschina.net/news/285896/organizing-multiple-git-identities
+
+6. 国产数据库，是研发们的 “离职创业咖啡店” 吗？
+
+   https://my.oschina.net/u/6852546/blog/11050180
+
+7. 9 年创业经验，知名程序员放话：“我教你三步创建一家‘Google’！”。① 精通某种或几种技术；② 获得创业的想法；③ 找个联合创始人。
+
+   https://mp.weixin.qq.com/s/nA7cSHfZzO84GZ1rhlkyew
+
+8. Qt 的发展历史、现状与启示。
+
+   https://mp.weixin.qq.com/s/Xne-xlnwxsK7PkVjGK0M_A
+
