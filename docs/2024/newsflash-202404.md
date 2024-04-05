@@ -154,3 +154,41 @@
 
    https://mp.weixin.qq.com/s/Xne-xlnwxsK7PkVjGK0M_A
 
+
+
+## 2024.04.05
+
+2024年4月5日 💡行业快讯
+
+1. 蔡崇信最新访谈：阿里的失误、中国消费市场、人工智能的未来、NBA、教育。
+
+   https://mp.weixin.qq.com/s/wQBnS36TMgU7Yki_xoVtUA
+
+2. 造车项目失败后，苹果据悉研究将家用机器人作为“下一重大项目”。
+
+   https://mp.weixin.qq.com/s/Q8B04C70OBmusB_TLP2WEg
+
+3. 李飞飞主讲，斯坦福 2024 CS231n 开课，依旧座无虚席。
+
+   https://mp.weixin.qq.com/s/ZVuM_lGyJegXzxxAjD-ESg
+
+4. AI Agent 引爆 AGI 时代，十篇研报透视 AI 智能体的现在与未来。
+
+   https://mp.weixin.qq.com/s/oc08ID6FUb85_wfNeRrDtw
+
+5. 吴恩达谈 AI Agent 智能体工作流，AI 发展的下一个风口？
+
+   https://mp.weixin.qq.com/s/PirWb-gtM42KNvZ8Og28Lw
+
+6. 速腾、禾赛业绩大涨，二线激光雷达厂商更危矣。
+
+   https://mp.weixin.qq.com/s/lggnnAtDz0LwmanZx1R_jQ
+
+7. 上海市发布《2023年上海市工业软件推荐目录》，RT-Thread 专业版入选。
+
+   https://mp.weixin.qq.com/s/nNBHFKdiWXNAYx_XZuGp6A
+
+8. I2C、SPI 和 UART 是电子嵌入式设备中最常用的通信协议，本文以动画形式展示它们的通信过程。
+
+   https://mp.weixin.qq.com/s/d-BkHdBCnMH0uGmXF1r0xg
+
