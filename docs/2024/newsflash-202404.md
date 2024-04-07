@@ -192,3 +192,41 @@
 
    https://mp.weixin.qq.com/s/d-BkHdBCnMH0uGmXF1r0xg
 
+
+
+## 2024.04.07
+
+2024年4月7日 💡行业快讯
+
+1. AI 人形机器人行业发展及技术 蓝皮书 2024。
+
+   https://mp.weixin.qq.com/s/os0Fy5jby3VhVFzIUuf7Mg
+
+2. 近日，斯坦福大学教授吴恩达在演讲中提到，基于 GPT-3.5 构建的智能体工作流在应用中表现比 GPT-4 要好。AI 智能体工作流将在今年推动人工智能取得巨大进步，甚至可能超过下一代基础模型。
+
+   https://mp.weixin.qq.com/s/Q0O1F-hdU5_3y7YnO1JpkA
+
+3. 邪恶大模型多到离谱！黑客通过后门攻击操纵大模型，BadGPT 时代来了？
+
+   https://mp.weixin.qq.com/s/1TN2290rWWhTUOFoSxxqXw
+
+4. 成立 11 年，全球掌握 9 亿用户的 Telegram 决定上市，估值在 300 亿美元左右。
+
+   https://mp.weixin.qq.com/s/-q-F4AoY_8mTafpJY6YrOA
+
+5. 受 XZ 后门事件影响，Ubuntu 24.04 Beta 推迟发布。
+
+   https://www.oschina.net/news/286478/ubuntu-24-04-beta-delayed
+
+6. 德国也要 “自主可控”，州政府将 3 万台 PC 从 Windows 迁移到 Linux。
+
+   https://mp.weixin.qq.com/s/NlIagkOybgPRmR5m1BMqvA
+
+7. 上海开源信息技术协会第二届会员大会暨第二届理事会第一次会议顺利召开，RT-Thread 创始人熊谱翔当选上海开源信息技术协会理事长。
+
+   https://mp.weixin.qq.com/s/k0ldCXJ130AOcizZ317FZQ
+
+8. 每天研究一个行业：割草机器人行业。
+
+   https://mp.weixin.qq.com/s/z_ApWvIvINbrVylkNTY4wg
+
