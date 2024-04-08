@@ -230,3 +230,57 @@
 
    https://mp.weixin.qq.com/s/z_ApWvIvINbrVylkNTY4wg
 
+
+
+## 2024.04.08
+
+2024年4月8日 💡行业快讯
+
+1. 硅谷爆发 AI 人才荒！马斯克自曝 xAI 挖走特斯拉 CV 负责人，OpenAI 偷用百万小时油管视频训 GPT-4丨AIGC 大事日报。
+
+   https://mp.weixin.qq.com/s/jBbMPTGxgRv_Jn-f4L28Xw
+
+2. 初识 AI Agent —— 以大模型为核心的智能体。
+
+   https://mp.weixin.qq.com/s/4F9ElK2WyTW6mIUuExt_Yg
+
+3. 激光雷达升温记：高阶智能驾驶背后的“热”市场。
+
+   https://mp.weixin.qq.com/s/AaoQrzGfyAK4AvyJZwXWVA
+
+4. 科普：激光雷达跌宕起伏的历史和技术路线详解。
+
+   https://mp.weixin.qq.com/s/vDRyjRKrMNGLzServGQTOg
+
+5. 相机与激光雷达是怎么标定的？一览行业所有主流的标定工具。
+
+   https://mp.weixin.qq.com/s/5ZVO3sPTomciMjzWMc52Uw
+
+6. 自动驾驶公司“纵目科技”正式向港交所主板提交上市申请，估值 90 亿。
+
+   https://mp.weixin.qq.com/s/vUZvKzQUyi5qjWh80vXYog
+
+7. 激光雷达供应商“速腾聚创”业绩翻倍的背后：从激光雷达到机器人革命。
+
+   https://mp.weixin.qq.com/s/5oc_iUFNqmwDrXEwZTJJRQ
+
+8. 曾经估值超过400亿元的“独角兽”科技企业、折叠屏手机“鼻祖”柔宇科技被传破产。
+
+   https://mp.weixin.qq.com/s/oWMrCWRZQq6zuChZwndXaA
+
+9. 国外最新开源的物联网平台 Magistrala，助力开发者构建安全、可扩展和创新的 IoT 应用程序。
+
+   https://mp.weixin.qq.com/s/i8G9QAGbbS35IQ3yK-SEjw
+
+10. 活动推荐：开放原子开源基金会 AtomGit 开源协作平台测评赛。
+
+    https://mp.weixin.qq.com/s/ukxfEYVBcAXtHA6CIYyiGg
+
+11. RT-Thread 征文活动：邀请社区小伙伴来分享你对开源与社区贡献的见解，以及你和 RT-Thread 的开源故事，与我们一同探讨开源在嵌入式系统领域中的价值和作用。
+
+    https://mp.weixin.qq.com/s/6pk7V-Ttny0ZXGA0eTjqkg
+
+12. 由 SeeedStudio 设计的新款 BeagleBoard，支持 AI，硬件设计全开源！
+
+    https://www.eetree.cn/project/2964
+
