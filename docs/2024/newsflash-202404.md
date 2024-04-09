@@ -284,3 +284,40 @@
 
     https://www.eetree.cn/project/2964
 
+
+
+## 2024.04.09
+
+2024年4月9日 💡行业快讯
+
+1. 纯C语言手搓GPT-2，前OpenAI、特斯拉高管新项目火了。
+
+   https://mp.weixin.qq.com/s/YMuq9Jo9Nibl1QFbLNxazg
+
+2. Redis不开源是“开源”之耻，更是公有云之耻。
+
+   https://mp.weixin.qq.com/s/W5kOLxeJCIHjnWbIHc1Pzw
+
+3. 自动驾驶环卫车调研方案。
+
+   https://mp.weixin.qq.com/s/QC2oRjKfDmBtJwP4RlXF0w
+
+4. 2024年3月30日，第十一届开源操作系统年度技术会议（OS2ATC）在西郊宾馆举办！RT-Thread 作为国内领先的开源操作系统斩获了“最具影响力 IoT 操作系统奖”。
+
+   https://mp.weixin.qq.com/s/LS3kcm8c-iiNdsE6--3Hew
+
+5. 活动预告：KCD（Kubernetes Community Days）上海即将启程，火热报名中。
+
+   https://mp.weixin.qq.com/s/9lbnet8HRJ7nc4DTyHVX0A
+
+6. 活动预告：第二届 eBPF 开发者大会将于4月13日在陕西西安举行，这是一个汇聚顶尖专家和热爱者的盛会，旨在探讨和推动 eBPF 技术的创新和应用。
+
+   https://mp.weixin.qq.com/s/9wVuj7ERU-VtjwOn-5OjkQ
+
+7. 活动预告：Funpack 活动是硬禾学堂联合 DigiKey 发起的为期一年的“玩成功就全额退”活动第三季正式开启，第一期板卡是 STM32 Nucleo 传感器扩展板。
+
+   https://mp.weixin.qq.com/s/PrKefdjHB_TG6G6mxw9lGg
+
+8. 活动预告：4月10日将在深圳福田举办 RT-Thread 混合部署线下 workshop，在瑞芯微 RK3568 平台上实现同时运行 RT-Thread 和 Linux。
+
+   https://mp.weixin.qq.com/s/swVm3VLoYvdqbxZ6V8JNgA
