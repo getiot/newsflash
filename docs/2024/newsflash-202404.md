@@ -321,3 +321,49 @@
 8. 活动预告：4月10日将在深圳福田举办 RT-Thread 混合部署线下 workshop，在瑞芯微 RK3568 平台上实现同时运行 RT-Thread 和 Linux。
 
    https://mp.weixin.qq.com/s/swVm3VLoYvdqbxZ6V8JNgA
+
+
+
+## 2024.04.10
+
+2024年4月10日 💡行业快讯
+
+1. 科普：深入理解 Sora 技术原理。
+
+   https://mp.weixin.qq.com/s/e1DqTa1Tgyi4OWpgwrj48Q
+
+2. NVIDIA 培训：RAG 免费中文新课上线。RAG（检索增强生成）在大语言模型（LLM）领域备受关注，了解 RAG 这项技术，对于从事大语言模型开发和文本生成等相关业务的开发人员来说至关重要。
+
+   https://mp.weixin.qq.com/s/EIQgUn35kyO-i1TEdYx5xA
+
+3. 钉钉卡位战：SaaS 挣不到的钱，Agent 会挣到。
+
+   https://mp.weixin.qq.com/s/a9akonDXgxy4vBG7EuYX5g
+
+4. 详解地平线：最大的中国自动驾驶公司，去年营收 16 亿。
+
+   https://mp.weixin.qq.com/s/VSCWcjT4eaprp9K52yl1VA
+
+5. 禾赛 AT128 激光雷达拆解。
+
+   https://mp.weixin.qq.com/s/21itV7BTAIvNKeAK2A5q6g
+
+6. 自动驾驶传感器：卫星导航系统。
+
+   https://mp.weixin.qq.com/s/5MtQrO5rH_GkNPlMEnhAYA
+
+7. Linux Foundation 开源软件学园（LFOSSA）2024 春季人才激励计划正式启动，每一位喜爱开源的人都有机会获得来自 Linux 基金会的免费进修机会。
+
+   https://mp.weixin.qq.com/s/6vLlI9LmfMh_d8KBYpwepg
+
+8. RT-Thread GTC 2024（RT-Thread 全球技术大会）将于2024年6月1日至6日举办，开始征集演讲！
+
+   https://mp.weixin.qq.com/s/60jpepwK_CfQ0TqorHBSlg
+
+9. 项目分享：教你如何用 Arduino 制作一个简易自动喂鱼器。
+
+   https://mp.weixin.qq.com/s/MfvKlUfySTUZ5m3vcmFl1w
+
+10. 项目分享：太阳能墨水屏气象站。
+
+    https://mp.weixin.qq.com/s/q1dE39Kf3l_xjvjMq9-4pw
