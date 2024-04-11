@@ -367,3 +367,44 @@
 10. 项目分享：太阳能墨水屏气象站。
 
     https://mp.weixin.qq.com/s/q1dE39Kf3l_xjvjMq9-4pw
+
+
+
+## 2024.04.11
+
+2024年4月11日 💡行业快讯
+
+1. 全球几乎每两天就有一家新独角兽诞生 |《2024全球独角兽榜》重磅发布！
+
+   https://mp.weixin.qq.com/s/JMBEhOHa6iPubv8Z4UMepQ
+
+2. Robotaxi 降本，特斯拉准备了八年。
+
+   https://mp.weixin.qq.com/s/UYRamO_8PNKZ79PZPB-_gg
+
+3. 乐鑫发布 ESP32-H4：支持 802.15.4 和 Bluetooth 5.4 (LE) 的低功耗 SoC。
+
+   https://mp.weixin.qq.com/s/ZGvYIZ9Q1Vsaq3FcUiLASA
+
+4. LTF（Linux Test Framework）是麒麟信安自动化组开发的一款面向 Linux 操作系统测试的自动化测试框架，目前已在 openEuler 社区开源。
+
+   https://mp.weixin.qq.com/s/C95EicoXKFro7OOE9LuMRA
+
+5. DIY：玩转 ESP32 方案，我只用了一块积木！
+
+   https://mp.weixin.qq.com/s/-QNc7RVcmjzOrhKsh2fl4w
+
+6. 活动：2024中国（春季）智能家居技术创新峰会暨第三届（佛山）AIoT&智能家居技术研讨会。
+
+   https://mp.weixin.qq.com/s/OlhsdsN-cqbeBXPdEyUH-A
+
+7. 干货：Go 编程语言规范（中文）。
+
+   https://hao.studygolang.com/golang_spec.html
+
+8. 干货：Docker 使用笔记。
+
+   https://mp.weixin.qq.com/s/9jP4syhPU0ZAiex-Vlny6Q
+
+
+
