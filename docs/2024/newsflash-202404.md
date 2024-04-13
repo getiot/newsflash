@@ -408,3 +408,47 @@
 
 
 
+## 2024.04.13
+
+2024年4月13日 💡行业快讯
+
+1. 国际开源盛会 FOSSASIA Summit 2024 于2024年4月8日至10日在越南河内举行。FOSSASIA 创始人 Hong Phuc Dang 出生于越南，这是她的故事 —— 开源改变了我的人生！
+
+   https://mp.weixin.qq.com/s/w_-pFbtoCw8IcR-r4-COow
+
+2. 4月9日，Embedded World 2024 在德国纽伦堡开幕，这是嵌入式系统产业界的重要活动，许多知名企业到现场展示它们的最新技术和产品，嵌入式系统联谊会专家将密切关注展会的动向，带给大家最新的报道。
+
+   https://mp.weixin.qq.com/s/RleK2iftjB5l6Fz7W6GSpg
+
+3. 李彦宏：大模型开源意义不大；腾讯云后台崩了；离开百度7年后，吴恩达官宣加入亚马逊董事会 | Q资讯。
+
+   https://mp.weixin.qq.com/s/F3ElcTz5bgIuNic749gz9A
+
+4. 苹果股价一夜暴涨 8113 亿，小小的 M4，撬起大大的 Apple。
+
+   https://mp.weixin.qq.com/s/oaVM9xjNm0vDKotpi68Ccw
+
+5. 为什么要纯 C 语言手搓 GPT-2，Karpathy 回应网友质疑。
+
+   https://mp.weixin.qq.com/s/V5yMv5D1pgNBb2tsQWcmCw
+
+6. 吴恩达：AI智能体将在年内彻底颠覆整个行业 | 淼翰洞察
+
+   https://mp.weixin.qq.com/s/hmSC1LiyU2Fy_ArWDoU_zA
+
+7. 一文搞懂 Transformer 架构的三种注意力机制。
+
+   https://mp.weixin.qq.com/s/_IrB7oWn-xckPi_QoAEu4g
+
+8. 帆软软件 —— 软件行业的科技黑马，坚持不融资、不上市，多个产品线市场占有率第一。
+
+   https://mp.weixin.qq.com/s/U3NTtL8-aW1GrX22P8IQ5w
+
+9. 上海开源信息协会：自由软件、开源软件其开源社区发展简史。
+
+   https://shanghaiopen.org.cn/blog/1/71
+
+10. Qt 程序员必看，关于 Qt 收费的官方答复。
+
+    https://mp.weixin.qq.com/s/gnnUY_n_eNGjqGtVuw7LSw
+
