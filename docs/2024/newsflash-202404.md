@@ -452,3 +452,41 @@
 
     https://mp.weixin.qq.com/s/gnnUY_n_eNGjqGtVuw7LSw
 
+
+
+## 2024.04.15
+
+2024年4月15日 💡行业快讯
+
+1. 武汉大学开设雷军班，探索多元化人才培养！
+
+   https://mp.weixin.qq.com/s/YCbyc3_BD6ABqbFB15PYrg
+
+2. 速腾聚创“千元机”激光雷达发布！智能驾驶加速进入更大市场空间。
+
+   https://mp.weixin.qq.com/s/RPAnVA70Ti5Q7arzKddoew
+
+3. 科普：AI、AGI、AIGC、AI Agent、Prompt、LLM、GPTs ... 名词解释
+
+   https://blog.csdn.net/lu_embedded/article/details/137760405
+
+4. 低代码 + AI 构建 Agent，是 AI Agent 落地的突破口。
+
+   https://mp.weixin.qq.com/s/FN3Ap7myrSVhzlKlEQ_uqg
+
+5. 小米应用商店新规：App 不得默认勾选、强制捆绑自动续费。
+
+   https://mp.weixin.qq.com/s/u7t4NPSAdqnsaaa6y1w53w
+
+6. 国产操作系统（欧拉、龙蜥、统信、麒麟 OS）技术选型和对比分析。
+
+   https://mp.weixin.qq.com/s/y_tc_ep8zuHELcl8Fl7Myw
+
+7. 云, 容器和 Kubernetes 新手指南。
+
+   https://mp.weixin.qq.com/s/GkArOm55nAoyR3QQ1XIf_g
+
+8. 旧闻：一张估值 20 亿的「笑脸」，正在拆掉 OpenAI 的围墙。
+
+   https://mp.weixin.qq.com/s/ZwyPP15atqgZD4DQYGVJiw
+
