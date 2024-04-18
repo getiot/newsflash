@@ -1,5 +1,3 @@
-
-
 # 2024年4月
 
 
@@ -490,3 +488,40 @@
 
    https://mp.weixin.qq.com/s/ZwyPP15atqgZD4DQYGVJiw
 
+
+
+## 2024.04.18
+
+2024年4月18日 💡行业快讯
+
+1. 2024第一季度全球手机出货量公布，三星挤掉苹果王座，小米和传音势头强劲！
+
+   https://mp.weixin.qq.com/s/mZfE9X3Qx47iI8EngeFOkw
+
+2. 老乡鸡宣布在 Gitee “开源”—— 将其最核心的内容对消费者、监管部门以及同行全面公开，包括菜品配料、食材供应商明细、操作工艺等菜品制作涉及到的所有环节。
+
+   https://mp.weixin.qq.com/s/xHM_tv2qYsMmGqt-f_jF3w
+
+3. 石头&全志联袂打造，高端旗舰智慧扫地机器人创新发布。
+
+   https://mp.weixin.qq.com/s/w-gRk5gRAWMQg8VvQiZijA
+
+4. 凭啥做到 1000 元级？速腾最新产品 MX 分析。
+
+   https://mp.weixin.qq.com/s/OzpJt-BdzqZxzeVZSSQoHg
+
+5. Google Next ’24 中文精选课4月26日准时开课！报名通道开启！
+
+   https://mp.weixin.qq.com/s/t0O2v27ZTwTbAIFCHajEfw
+
+6. RT-Thread 计划推出基于 STM32H7R 的 ART-Pi 二代开发板，由社区定义！
+
+   https://mp.weixin.qq.com/s/7KG4kuMMY0UWnUAmhgUSYg
+
+7. 盘点：自由职业程序员（独立开发者）应该具备的技能与软硬综合能力。
+
+   https://zhuanlan.zhihu.com/p/692259320
+
+8. 真格基金 Z Circle：东方空间姚颂 —— 创业者的成长之路。
+
+   https://mp.weixin.qq.com/s/BfHF-G0ORNWQw9CjljaZvQ
