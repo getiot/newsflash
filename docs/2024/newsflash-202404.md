@@ -525,3 +525,42 @@
 8. 真格基金 Z Circle：东方空间姚颂 —— 创业者的成长之路。
 
    https://mp.weixin.qq.com/s/BfHF-G0ORNWQw9CjljaZvQ
+
+
+
+## 2024.04.20
+
+2024年4月20日 💡行业快讯
+
+1. 中国互联网30周年发展座谈会在京召开。
+
+   https://mp.weixin.qq.com/s/wU0N0sGPtz3XrYWbIRrXwQ
+   
+1. CB Insights 发布最新AI 100 榜单，19 家独角兽、2 家中国企业入选。
+
+   https://mp.weixin.qq.com/s/hkxTSMNNFoNR03tbl7HCkA
+   
+1. 米哈游成立仅十余年以自研游戏为主的公司，还没上市却提前上演了造富神话，一下干出了四位百亿富豪！
+
+   https://mp.weixin.qq.com/s/cXezRXyLvT4l_aeu7-m1Iw
+   
+4. Node-RED入门：构建您的第一个物联网应用。
+
+   https://mp.weixin.qq.com/s/KBTBJBgHflp7m0MBLLti9Q
+
+5. 译文：在手机上运行 LLaMA。
+
+   https://mp.weixin.qq.com/s/Yw_odxgVu8nu7iHBGrWpUg
+
+6. 活动回顾：Dev.Together 2024 会议总结 + 视频回放及资料下载。
+
+   https://mp.weixin.qq.com/s/b8wbH7-y_TLmhSFzab2usg
+
+7. 活动回顾：谷歌 Build with AI 活动圆满结束！
+
+   https://mp.weixin.qq.com/s/BF5trsn5Ccnaa9kqpjX-Wg
+
+8. 活动预告：TDengine Open Day 技术沙龙将于5月18日在北京举办，一起探索开源数据库的未来与职业发展。
+
+   https://mp.weixin.qq.com/s/5gy1W7qIPXe3yAYwlunPpQ
+
