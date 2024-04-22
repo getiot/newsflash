@@ -564,3 +564,41 @@
 
    https://mp.weixin.qq.com/s/5gy1W7qIPXe3yAYwlunPpQ
 
+
+
+## 2024.04.22
+
+2024年4月22日 💡行业快讯
+
+1. 乐鑫科技收购创新硬件公司 M5Stack 控股权。
+
+   https://mp.weixin.qq.com/s/sI12uCWmn-I2VuA5qBA-1w
+
+2. Meta 公司的 Llama 3 是开放获取的 Llama 系列的最新版本，现已在 Hugging Face 平台发布。
+
+   https://mp.weixin.qq.com/s/6BsJKYeOqEBATA6g44T72w
+
+3. 创客项目秀：本地语音聊天机器人，在 reComputer 上部署 Riva 和 LIama2。
+
+   https://mp.weixin.qq.com/s/qdG_OfOVhZY48VjXi3Iczg
+
+4. AI 大模型一周大事：Meta、微软、Mistral AI、Hugging Face、通义、港中文六路进发开源大模型。
+
+   https://mp.weixin.qq.com/s/01wbuve5pAud1eC6W05yig
+
+5. 意法半导体（简称ST）近日公布可持续发展年报，展示其2023年在环境保护、社会责任和企业治理方面取得的成绩。
+
+   https://mp.weixin.qq.com/s/yRaIBVbKwYZALsQo9x7PnQ
+
+6. 柴火创客空间：世界地球日2024 | 全球战塑 我们在行动。
+
+   https://mp.weixin.qq.com/s/lj5ttbDLQJesdca9BuDszQ
+
+7. 科普：激光雷达面临的挑战有哪些？
+
+   https://mp.weixin.qq.com/s/3c5QHA0Q3QuYvhkhoVONtQ
+
+8. 2024北京车展将于4月25日至5月4日在中国国际展览中心顺义馆和朝阳馆举行。
+
+   https://mp.weixin.qq.com/s/3r9jw6z790VmJvBmmI2OQg
+
