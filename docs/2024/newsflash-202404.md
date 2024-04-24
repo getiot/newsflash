@@ -602,3 +602,44 @@
 
    https://mp.weixin.qq.com/s/3r9jw6z790VmJvBmmI2OQg
 
+
+
+## 2024.04.24
+
+2024年4月24日 💡行业快讯
+
+1. 睿赛德科技宣布正式加入 EtherCAT Technology Group（ETG）会员。
+
+   https://mp.weixin.qq.com/s/XtNOH5l0mzoGBl0VnrkvLw
+
+2. LittlevGL 不只是某些人的项目！——采访 LittlevGL 的开发者 Gabor Kiss- Vamosi。
+
+   https://mp.weixin.qq.com/s/evp9q4jkyge0fLg7CRkoWQ
+
+3. 距离 Llama-3 发布不足一周，微软研究院紧跟着发布了 Phi-3 系列模型的技术报告，3.8B 性能比肩 Llama-3-8B。
+
+   https://mp.weixin.qq.com/s/CnJ0FZespyLetOnOV-xTzQ
+
+4. 雷锋早报：月之暗面又爆风波，创始人套现4千万美金引发震动，官方回应；百度百科 App 关闭服务。
+
+   https://mp.weixin.qq.com/s/PmXejPVusBaxgY0pshizqw
+
+5. 激光雷达 IMX459 量产称霸，迭代 IMX479（PDE高达50%）来临。
+
+   https://mp.weixin.qq.com/s/POE-al4NFVKpc_PDdpYrdg
+
+6. 活动回顾：聚焦开源力量，openEuler 携手合作伙伴闪耀 FOSSASIA Summit 2024。
+
+   https://mp.weixin.qq.com/s/xxV0DH6S9A7F7adBgK-lmQ
+
+7. 考试安排：2024年5月18日嵌入式裸机编程中级考试开放报名！
+
+   https://mp.weixin.qq.com/s/8CzsfRqNCjSQnSkH4nZyQw
+
+8. DIY 项目分享：玩转小脚丫 FPGA 套件实现数字时钟、图片显示、体感游戏机。
+
+   https://mp.weixin.qq.com/s/UCtcJCjw79neda0Bd-oOYg
+
+9. 突发：特斯拉公司近期在全球范围内进行裁员，同时取消了许多应届毕业生的工作邀约（Offer）。
+
+   https://mp.weixin.qq.com/s/tyR59yaKQthz5TJBrG0Fuw
