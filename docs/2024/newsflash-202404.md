@@ -643,3 +643,41 @@
 9. 突发：特斯拉公司近期在全球范围内进行裁员，同时取消了许多应届毕业生的工作邀约（Offer）。
 
    https://mp.weixin.qq.com/s/tyR59yaKQthz5TJBrG0Fuw
+
+
+
+## 2024.04.27
+
+2024年4月27日 💡行业快讯
+
+1. Linus Torvalds 最新访谈：大概我也会被 AI 大模型取代。
+
+   https://mp.weixin.qq.com/s/FbHTyHqEBJT-1PhA5x7FRg
+
+2. AUTOSAR 是否可以被其他的软件框架取代？
+
+   https://mp.weixin.qq.com/s/avNAYqWl_0iRZiZFBAna_A
+
+3. 4月25日，杭州召开《杭州市智能网联车辆测试与应用促进条例》新闻发布会，为自动驾驶立法。
+
+   https://mp.weixin.qq.com/s/VShdmoDprf4znK223KBmSQ
+
+4. 翼辉 SylixOS 操作系统入选 2023 年信息技术应用创新解决方案名单。
+
+   https://mp.weixin.qq.com/s/B0h1RD8PfEKYBSsOwI5s-w
+
+5. 积极推动国家设立 OSPO：联合国发布开源生态系统推动计划（OSEE）。
+
+   https://mp.weixin.qq.com/s/0MArq2-p1yudIfnFajjMtQ
+
+6. Dromara 到 Apache，开源实时监控 HertzBeat 捐赠进入 Apache 孵化器。
+
+   https://mp.weixin.qq.com/s/n1tNVodJFbWmQlQ-DH7ATw
+
+7. 文章：码农的黄金时代已经过去。
+
+   https://zhuanlan.zhihu.com/p/692612954
+
+8. 活动预告：大模型会取代程序员吗？
+
+   https://mp.weixin.qq.com/s/VQrdJsE_H8JPFri3JtjPrQ
