@@ -681,3 +681,5 @@
 8. 活动预告：大模型会取代程序员吗？
 
    https://mp.weixin.qq.com/s/VQrdJsE_H8JPFri3JtjPrQ
+
+
