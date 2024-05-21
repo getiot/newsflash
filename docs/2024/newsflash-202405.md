@@ -196,4 +196,34 @@
 
 2024年5月21日 💡行业快讯
 
-1. 
+1. 李开复：中国落后美国大模型差距缩小为 6 个月，疯狂降价是双输。
+
+   https://mp.weixin.qq.com/s/MbYdnqXyc2iT5hrQF9laHA
+
+2. 字节系多款 App 被指控抄袭源代码，连拼错的代码都抄走了？
+
+   https://mp.weixin.qq.com/s/6id2VoScxb5uJWFKFYkXJw
+
+3. 全球十大开源软件风险清单，示例与应对措施。
+
+   https://mp.weixin.qq.com/s/F5lFsRJQg5_8OEDeeHEsag
+
+4. 激光雷达第一梯队禾赛、速腾发布 2024 Q1 财报。
+
+   https://mp.weixin.qq.com/s/hvgWpg5evA5bsY_KqfT2vA
+
+5. 小米、宁德时代合资成立电池公司。
+
+   https://mp.weixin.qq.com/s/Z9Ly2vaLVBfjCvSmnXdjMQ
+
+6. 干货：RT-Thread CYW43012 软件包蓝牙编程和智能门锁示例。
+
+   https://mp.weixin.qq.com/s/rhg5Jem_qGFPgb_BffXTYQ
+
+7. 活动：5月25号，RT-Thread 将携手恩智浦共同举办“基于恩智浦 MCX N 系列 MCU + RT-Thread 的应用与实践”线下培训。
+
+   https://mp.weixin.qq.com/s/Nep-I7SCYIch7JbXMGTFjA
+
+8. 程序员职业发展：35岁以后的出路。
+
+   https://mp.weixin.qq.com/s/uc03zUWuIKCciDzU1zIHgw
