@@ -227,3 +227,52 @@
 8. 程序员职业发展：35岁以后的出路。
 
    https://mp.weixin.qq.com/s/uc03zUWuIKCciDzU1zIHgw
+
+
+
+## 2024.05.28
+
+2024年5月28日 💡行业快讯
+
+1. 安克 CTO 辞职创业，干出了年售 14 亿的智能家居品牌 Govee。
+
+   https://mp.weixin.qq.com/s/jZTb7cNuNhwEbcRAZaCdRA
+
+2. 世界上曾经最大的开源平台 SourceForge，被残酷地抛弃了！
+
+   https://mp.weixin.qq.com/s/yhqRWUra6FvouQ9Jv2AcCA
+
+3. 500亿锂电龙头龙佰集团创始人去世，仅61岁，90后漂亮女儿接管。
+
+   https://mp.weixin.qq.com/s/dDp1ljWi1ogvibTnSekZEA
+
+4. 国内外车企和零部件供应商纷纷行动，汽车行业迎来史上最大裁员悲剧。
+
+   https://mp.weixin.qq.com/s/zft0scsidOAmDrp0tdPvvg
+
+5. 特斯拉再掀革命：后视镜或成历史，你敢尝试吗？
+
+   https://mp.weixin.qq.com/s/y5fl5pE8bQYgxabzID4XTQ
+
+6. 速腾聚创第一季度销量同比增长 542%，激光雷达的神话还在继续。
+
+   https://mp.weixin.qq.com/s/y487l3lUJtD00RK0mtBluA
+
+7. 干货分享：AUTOSAR 的现状和未来。
+
+   https://mp.weixin.qq.com/s/llimL1dNws8t7dkudUT7kA
+
+8. 直播预告：RT-Thread 携手合作伙伴，共谈汽车电子的高安全时代战略转型与技术创新。
+
+   https://mp.weixin.qq.com/s/jUhAvioDPuP2TDwz_YESGA
+
+9. 直播预告：TDengine 3.3.0.0 新特性发布会即将举行。
+
+   https://mp.weixin.qq.com/s/_9k3vkLtCbo3eP1-m9wZBw
+
+10. 活动预告：Google I/O Connect 2024 谷歌开发者大会优先报名。
+
+    https://mp.weixin.qq.com/s/MHabzJB8yyipE-59W-VWbw
+
+
+
