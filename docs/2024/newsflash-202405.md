@@ -276,3 +276,41 @@
 
 
 
+## 2024.05.30
+
+2024年5月30日 💡行业快讯
+
+1. 15 年成为通用 MCU 第一，STM32 凭什么？
+
+   https://mp.weixin.qq.com/s/USpc4O5FcEneFm1u23itig
+
+2. 对话宇树科技王兴兴，造出 9.9 万元人形机器人的 90 后偏才。
+
+   https://mp.weixin.qq.com/s/E0Hhs-pz8vITeyp9jadttA
+
+3. 中国人形机器人产业链全景图谱。
+
+   https://mp.weixin.qq.com/s/AUwpaxYD8_2af2DhkTjygQ
+
+4. 三年亏掉上百亿，又一只独角兽——欧洲二手车交易平台 Cazoo 破产。
+
+   https://mp.weixin.qq.com/s/ns3ZmnnjlMK8MUOmR9lZqQ
+
+5. 降本！降本！种子选手「入场」，激光雷达赛道「杀机四伏」。
+
+   https://mp.weixin.qq.com/s/b4QC0xnMM5J7SPad72M5Ng
+
+6. SagooIOT：开源 IoT 物联网平台的革新，性能优越，成本低廉。
+
+   https://mp.weixin.qq.com/s/AALw24WjKxG8Qpo_q6WhCA
+
+7. MediaCMS：一款免费、现代、开源、功能齐全的视频和媒体 CMS。
+
+   https://mp.weixin.qq.com/s/F7I4lb-_U99kvi0s7XDm7g
+
+8. 如何管理开源项目中的即兴贡献者？
+
+   https://opensourceway.community/posts/community_leadership_development/managing-casual-contributors/
+
+
+
