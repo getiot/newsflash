@@ -42,3 +42,41 @@
 
    https://mp.weixin.qq.com/s/7hXlJS2YXBK9mNrALE8upg
 
+
+
+## 2024.06.07
+
+2024年6月7日 💡行业快讯
+
+1. 人心惶惶！微软裁员1500人！谷歌、亚马逊，也有大动作！
+
+   https://mp.weixin.qq.com/s/z_vwmh_7ABDCM930qczLCw
+
+2. 被美国列入制裁“实体清单”的西工大——在开源处理器架构 RISC-V 中发现可远程利用的中危漏洞。
+
+   https://mp.weixin.qq.com/s/uFnUKx0CSpwDYeLiu28gtw
+
+3. 高考之外，另一个改命的机会。
+
+   https://mp.weixin.qq.com/s/hxBNQkURTXuGdSGN62OU8Q
+
+4. 戒毒的程序员，全职开发操作系统 6 年后，决定辞职再转战浏览器！
+
+   https://mp.weixin.qq.com/s/r5IOS1PSVcX6nHdjFtu9ig
+
+5. 基于状态机和面向对象的思想，设计一个通用的按键检测模块。
+
+   https://mp.weixin.qq.com/s/JXIQx0E5MzHCBLe3cTa4pw
+
+6. 一文掌握 SPI 协议：嵌入式系统中的高速数据传输。
+
+   https://mp.weixin.qq.com/s/OMVaRi4SMdz7ALV0nIr-fw
+
+7. 怎么在 Bootloader 跳转前给 APP 提供干净的运行环境。
+
+   https://mp.weixin.qq.com/s/QN9udAvc4RaCDYDLa5v8WQ
+
+8. 如何利用 AI 代理构建小型初创公司（第一部分）。
+
+   https://mp.weixin.qq.com/s/ErHR0PVeVkRFPBfo0P639g
+
