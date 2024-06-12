@@ -80,3 +80,41 @@
 
    https://mp.weixin.qq.com/s/ErHR0PVeVkRFPBfo0P639g
 
+
+
+## 2024.06.12
+
+2024年6月12日 💡行业快讯
+
+1. 苹果有史以来最疯狂的发布会！发布颠覆性个人智能系统 Apple Intelligence，并彻底改革 Siri。
+
+   https://mp.weixin.qq.com/s/WrqFTOrBGN_WD7nFoVxBnw
+
+2. 《纽约时报》5000 多个 GitHub repo 的源代码被泄露。
+
+   https://mp.weixin.qq.com/s/8k2bXuayGZ5OIXbURMjIgw
+
+3. 荷兰光刻机阿斯麦总裁称：中国自主研发光刻机，是属于破坏了全球芯片产业链平衡，尤其是华为?
+
+   https://mp.weixin.qq.com/s/4eVJ3noZRb7iw_gImO2tLw
+
+4. 特斯拉官宣：已在工厂部署两个自动执行任务的 Optimus 机器人。
+
+   https://mp.weixin.qq.com/s/dgEudbbvDj-Qu50EYERzvQ
+
+5. 大家都在谈数据要素，但数据交易市场惨淡，原因在哪？有解吗？
+
+   https://mp.weixin.qq.com/s/fZpd8WX94yDRIYtxdxWEhA
+
+6. 小熊派 2.0 王者归来，正式上线小熊派社区官网（bearpi.cn）。
+
+   https://mp.weixin.qq.com/s/2BDQWFRGzO3bUI1TKomcFQ
+
+7. 科普：原来这才是生成式 AI ！
+
+   https://mp.weixin.qq.com/s/d-1-oHWq0oZ7rMk-PcDkOA
+
+8. DIY：用免费的 PCB 做了块 Linux 开发板 —— 海思 HI3516C 开发板/行车记录仪。
+
+   https://mp.weixin.qq.com/s/fKEjieguLIib8z8XI8BVGQ
+
