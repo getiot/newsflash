@@ -118,3 +118,43 @@
 
    https://mp.weixin.qq.com/s/fKEjieguLIib8z8XI8BVGQ
 
+
+
+## 2024.06.14
+
+2024年6月14日 💡行业快讯
+
+1. 树莓派上市，一块板子的逆袭之路。
+
+   https://mp.weixin.qq.com/s/RdadlTsLi28k0nPWANTSXA
+
+2. 学服装设计的 17 岁中专女生，闯进全球数学竞赛 12 强！
+
+   https://mp.weixin.qq.com/s/H6trf7e_CFJG4OJEaNxfcA
+
+3. 谦逊低调，持之以恒 —— Linux 基金会 Fellow 江腾圭也先生的开源故事。
+
+   https://mp.weixin.qq.com/s/w-wbs4yAytl-H7Ar-pThVQ
+
+4. RT-Thread Smart v5.1.0 已经正式发布，可以在 ART-Pi Smart 开发板尽情探索。
+
+   https://mp.weixin.qq.com/s/_JKlsjZ7mvwrg22tbquHlw
+
+5. 柴火共进社 | 可穿戴交流会：看 MIT 工程师如何低成本制作开源智能眼镜。
+
+   https://mp.weixin.qq.com/s/ojhXyRl9dEbMy64EvUO-ZQ
+
+6. ‘AI+人’访谈录：技术人从后台走向前台的心路旅程。
+
+   https://mp.weixin.qq.com/s/NVNbQ_OPjSgdgHeMjsYKbg
+
+7. 硬件工程师：辞职回乡种地，我只坚持了半年。
+
+   https://zhuanlan.zhihu.com/p/643981928
+
+8. 27 岁的程序员 Gap 一年感受。
+
+   https://zhuanlan.zhihu.com/p/665413542
+
+
+
