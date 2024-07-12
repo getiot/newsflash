@@ -53,3 +53,58 @@
 12. 美的集团：多元化家电龙头历史
 
     https://mp.weixin.qq.com/s/VUDsS8Z4ztmrBaM1lIrObw
+
+
+
+## 2024.07.13
+
+2024年7月13日 💡行业快讯
+
+1. 据工信部官网披露的第 385 批《道路机动车辆生产企业及产品公告》新产品公示，小米已获得独立造车资质，其生产企业名称也由北汽更换为小米。
+
+   https://mp.weixin.qq.com/s/4XzpweM6SelyaGC9piVBbA
+
+2. 睿赛德科技 CEO 熊谱翔演讲分享：基于 RT-Thread 操作系统的安全车控系统实践。
+
+   https://mp.weixin.qq.com/s/ZREdCxu18BnKjNsLzFsciA
+
+3. 播客：做数据线的绿联，怎么做 NAS 就不灵了？本期节目将从绿联的创业历程入手，深入分析这家公司的成长历史，试图找出答案。
+
+   https://mp.weixin.qq.com/s/0B-7KZ4SouAiiQgHD6eZYw
+
+4. 2024 世界人工智能大会（WAIC）前沿人工智能治理热点议题总结 —— 人形机器人的发展与治理。
+
+   https://mp.weixin.qq.com/s/JkYDIXKTWgedaZDJgy8urw
+
+5. 柴火创客空间《燃点周刊》002 期，征集项目：基于 XIAO 开发的继电器控制开关、XIAO 的电机/步进电机驱动板。
+
+   https://mp.weixin.qq.com/s/jDng-FRwK-L-oWL_clspDQ
+
+6. 创客李大维：AI 硬件应追求一种“像魔法一样”的互动体验。
+
+   https://mp.weixin.qq.com/s/0b_DsMZpude0yOsMBRjMQg
+
+7. 声网城市沙龙：关于实时 AGI、大模型落地、沉浸式空间计算的深度思考。
+
+   https://mp.weixin.qq.com/s/kHnIfovD0xhYTdIpp_NOdQ
+
+8. 深度操作系统活动预告： 7月13日（周六）下午将在上海市静安区举办 deepin Meetup。
+
+   https://mp.weixin.qq.com/s/456ZmHwvEtWC47i7Sn5tLg
+
+9. DIY 项目：核辐射能谱仪（γ射线能谱仪）。采用 4 层 PCB 板设计，超级能测！本项目的完成度很高，本文重点介绍了该项目的基础物理原理、硬件原理、FPGA 算法部分。
+
+   https://mp.weixin.qq.com/s/OhadNRR9PS_hmPBNehA0Kw
+
+10. 一款 AI 编写的 Kubernetes 实用小工具 check-k8s-network，用于检查 Kubernetes 集群中各个容器的网络连通性，支持 ICMP、TCP、UDP 和 HTTP 检查，助你批量检查容器服务健康状态。
+
+    https://mp.weixin.qq.com/s/PJ0eqyLI7qnubD6G5lQvsQ
+
+11. 徐工集团：工程机械制造龙头历史。
+
+    https://mp.weixin.qq.com/s/19xQl7bMpXyMfXcQgab3tg
+
+12. 《自然通讯》杂志上的一项研究指出，电动汽车电池正在成为 PFAS（全氟烷基和多氟烷基物质）污染的新来源。PFAS 污染物难以分解，且与许多疾病有关，包括肝损伤、高胆固醇、低出生体重和慢性肾病。
+
+    https://mp.weixin.qq.com/s/bxnVK-rdurYirZZvPSK5Ug
+
