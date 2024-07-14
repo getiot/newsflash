@@ -108,3 +108,57 @@
 
     https://mp.weixin.qq.com/s/bxnVK-rdurYirZZvPSK5Ug
 
+
+
+## 2024.07.15
+
+2024年7月15日 💡行业快讯
+
+1. AMD 宣布以全现金交易方式拿下位于芬兰的 AI 初创公司 Silo AI，交易金额约为 6.65 亿美元（约合人民币 48 亿元）。Silo AI 成立于2017年，是目前欧洲最大的私人 AI 实验室。
+
+   https://mp.weixin.qq.com/s/AIGqUUq4jJXBg-QmNytDoA
+
+2. 世界人工智能大会（WAIC）近日在上海举办，本文分享了刘润在逛了 WAIC 大会之后的一些看法，包括许多行业的分析和观点，可以了解一下！
+
+   https://mp.weixin.qq.com/s/-womzqZPU10BX5MDR68_xg
+
+3. 速腾聚创（RoboSense）公布2024年上半年业务进展，ADAS 激光雷达销量同比大增 487%，萝卜快跑无人车配备 M 平台产品。
+
+   https://mp.weixin.qq.com/s/JNsC1mCA2f08Yyl4K0M3Gg
+
+4. 鼎帷咨询行业研究院发布《华为汽车发展战略研究报告》，本文分享了华为在智能电动汽车的发展战略。
+
+   https://mp.weixin.qq.com/s/B64QdD9OpPOolNAJ4MPd9w
+
+5. 阿里云官宣两位新“代言人”——月之暗面 Kimi 创始人杨植麟和智联招聘集团总裁张月佳。这是月之暗面首次公开与阿里云的合作情况，阿里云的算力和大模型服务平台将助力月之暗面提升模型推理效率，加速 Kimi 智能助手实现技术突破。
+
+   https://mp.weixin.qq.com/s/1gLABBkKndh-ybNhgJXNoQ
+
+6. 据路透社报道，OpenAI 内部正在一个代号为「草莓（Strawberry）」的项目中开发一种新的人工智能模型。该项目的细节此前从未被报道过，而 OpenAI 正努力证明其提供的各类模型能够提供高级推理能力。
+
+   https://mp.weixin.qq.com/s/Hq-5aIQtjER_N9j5l6Mu4g
+
+7. 蚂蚁集团推出了一项开源项目 EchoMimic，这款 AI 工具能够根据声音内容，为照片中的人物创建逼真的口型同步动画，让数字人说话更自然，表情更生动。
+
+   https://mp.weixin.qq.com/s/ab8945fm5NX5vOJptgcHLg
+
+8. 腾讯开源了其基于腾讯位置服务 JavaScript API 封装的地图组件库 tlbs-map，用于在网页上绘制地图，并在地图上绘制点、线、面、热力图等效果。它支持 Vue2、Vue3、React 等主流技术栈，可以帮助开发者降低地图开发的成本。
+
+   https://mp.weixin.qq.com/s/nvIiZNTLy8nB1o9f85l8iQ
+
+9. 许多城市的传统燃气系统正面临严峻挑战。随着人口增长和建筑密度上升，燃气管网分布日益密集，这不仅显著增加了燃气供应和管理的复杂性，也使得燃气安全问题更加突出。本文介绍了 EMQ 的下一代智慧燃气平台的主要功能、技术方案和应用案例。
+
+   https://mp.weixin.qq.com/s/luxp-_Id4fkEpJIWbpC3Yw
+
+10. 据英国《金融时报》报道，小红书最近出售了老股，估值 170 亿美元（约合人民币 1200 亿元），DST Global 参与了本轮投资，红杉中国进一步增持，此外高瓴、博裕资本和中信资本也进行了投资。
+
+    https://mp.weixin.qq.com/s/hy6Gzc0s2rGhGLqyq4b4gg
+
+11. 在大厂工作9年的工程师胡胖分享他为什么离开互联网行业，以及对未来的思考。
+
+    https://mp.weixin.qq.com/s/t8o9jnRusTLJujjqRAa6Fw
+
+12. 中年程序员的反思：你到底有多喜欢写代码？
+
+    https://mp.weixin.qq.com/s/LQVMMUXT8ez-NV8WzFACmQ
+
