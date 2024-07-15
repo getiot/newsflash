@@ -162,3 +162,57 @@
 
     https://mp.weixin.qq.com/s/LQVMMUXT8ez-NV8WzFACmQ
 
+
+
+## 2024.07.16
+
+2024年7月16日 💡行业快讯
+
+1. ChatGPT 无法取代人类程序员！ IEEE 35 页论文测出困难编码正确率仅为 0.66%。
+
+   https://mp.weixin.qq.com/s/w0sX3SeuVKI0nuVOZilLVg
+
+2. Hacker News 是一个月访问量上亿的论坛网站，但是它的界面非常简陋，依然保持着17年前的界面。本文介绍了 Hacker News 网站背后的一些故事。
+
+   https://mp.weixin.qq.com/s/tMMXSfN0TMWQzNsiQEbzsA
+
+3. 刘润：萝卜快跑，是一场诸神之战的开始。
+
+   https://mp.weixin.qq.com/s/yIWOK6pzhKi282X5pKgVwA
+
+4. 武汉正成为中国工业软件重镇。
+
+   https://mp.weixin.qq.com/s/ceArKhyOTIklcN2jwV_Arw
+
+5. 小鹏前联合创始人何涛成立公司再创业，新公司名称为“广州三寿科技有限公司”，创业方向或为机器人、两轮电动等。小鹏前副总裁矫青春加入，股份占比为30%。
+
+   https://mp.weixin.qq.com/s/vb440rnuK_YNPKigr28wUw
+
+6. 前大疆激光雷达负责人洪小平新动向曝光，创立若创科技，投身机器人赛道，其创业项目已经吸引到了硅谷 VC 押注。
+
+   https://mp.weixin.qq.com/s/6eaQZVeSm-xV7h4-cvMW0w
+
+7. EMQ 社区：使用 MQTT 和 micro-ROS 构建高效的机器人应用。
+
+   https://mp.weixin.qq.com/s/RL1hpJzv0kqdh8FVDgYEIQ
+
+8. MySQL 被称为最流行的开源关系型数据库，但是为什么高性能场景选用 PostgreSQL 而不是 MySQL？
+
+   https://mp.weixin.qq.com/s/vkwr9WPWsth23L8sVFCxWw
+
+9. GPT 是一种基于单向 Transformer 解码器的预训练语言模型，本文以动画形式讲解 Transformer 的工作原理。
+
+   https://mp.weixin.qq.com/s/7RBWwf4bQF31E0BySeSx9g
+
+10. 创客项目：超小型独立自主机器人 Dimebots。它的体积如硬币般大小，重量不足 5g，是世界上最小的机器人之一。
+
+    https://mp.weixin.qq.com/s/g9qavg9rdnT8G3pejZvJQA
+
+11. 文献荐读：Nature Communications 探讨中国电供暖政策与碳减排间的权衡。
+
+    https://mp.weixin.qq.com/s/Br8oEFDEZKmiUKVyoJ7TIA
+
+12. 活动报名：RT-Thread 全球嵌入式电子设计大赛。本次大赛提供的硬件板块共有 150 块，7月18日截止报名。
+
+    https://mp.weixin.qq.com/s/dis-GL6w2qcbxyxmGvcaww
+
