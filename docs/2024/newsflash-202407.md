@@ -216,3 +216,56 @@
 
     https://mp.weixin.qq.com/s/dis-GL6w2qcbxyxmGvcaww
 
+
+
+## 2024.07.17
+
+2024年7月17日 💡行业快讯
+
+1. 腾讯发布可控视频生成框架 MimicMotion，MimicMotion 技术能通过参考人物的骨骼动作，生成平滑高质量的人物动作视频。
+
+   https://mp.weixin.qq.com/s/eIB5YDv-Ajywfvjxcf3GXg
+
+2. 美国旧金山，20 辆谷歌 Waymo 的无人驾驶出租车（Robotaxi）被集体扎胎了。
+
+   https://mp.weixin.qq.com/s/F-76ABi-YKryaXY-Kcs79g
+
+3. 如祺出行（09680.HK）正式登陆港交所，使得广汽集团收获一个 IPO。如祺出行发行价为 35 港元/股，上市次日股价涨幅超 16%，市值突破 80 亿港元。
+
+   https://mp.weixin.qq.com/s/Oz4qyHjbxxsLQZQWfwxkvw
+
+4. 受 AI 概念影响，半导体设计公司 ARM 市值大涨，前世界首富孙正义靠 AI 翻身了。
+
+   https://mp.weixin.qq.com/s/ijRRO85yc19-J06eMX1_zw
+
+5. 机器人SLAM（Simultaneous Localization and Mapping，即同步定位与地图构建）是一种使机器人在未知环境中同时进行自身定位和环境地图构建的技术。本文对机器人 SLAM 进行了科普。
+
+   https://mp.weixin.qq.com/s/pa7e5E9FfAmabZwpXNkMlg
+
+6. PID 是一种技术成熟、应用最为广泛的控制系统，被广泛应用于工业过程控制，本文详细介绍了 PID 控制的原理。
+
+   https://mp.weixin.qq.com/s/sNdJ495W_JKT4_lKJBWcTQ
+
+7. 项目分享：终极智能手表。这是一个非常完整的智能手表开源项目，功能齐全，且资料开源。
+
+   https://mp.weixin.qq.com/s/vGCL43y-jlhr5spjRdUkow
+
+8. 项目分享：基于 ESP32 的 BB 机。硬件、软件、结构均开源，功能也很实用。
+
+   https://mp.weixin.qq.com/s/7wT8P4ZXEZeFx3KT_yd7EA
+
+9. 活动分享：【FastBond3】解锁工业4.0市场应用新篇章。FastBond 第三季是硬禾科技联合 DigiKey 发起的为期四个月的“Show Your Model”创意秀活动，鼓励大家通过参考现有的方案和产品设计，设计出一个新的方案。
+
+   https://mp.weixin.qq.com/s/WWZ2X36zQ1IZD9u-eWa_HA
+
+10. 活动预告：雷军第5次年度演讲将于7月19日（周五）晚7点开始，主题是“勇气”，主要是讲讲造车的来龙去脉和这三年多跌宕起伏的故事。
+
+    https://mp.weixin.qq.com/s/59G-UiGXFnUvNoOaecqHAA
+
+11. 随着 AI 的发展，谷歌和微软的用电量超过了许多国家。在全球气候变化的严峻形势下，科技巨头们正面临前所未有的环境压力。
+
+    https://mp.weixin.qq.com/s/DlY5t1fsY5Nwk04t7BZGEw
+
+12. 刘润：不想卷了，就去做自己擅长的事吧！
+
+    https://mp.weixin.qq.com/s/EJxkzA1I5p425E2vJJ0tNw
