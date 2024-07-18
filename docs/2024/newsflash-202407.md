@@ -269,3 +269,60 @@
 12. 刘润：不想卷了，就去做自己擅长的事吧！
 
     https://mp.weixin.qq.com/s/EJxkzA1I5p425E2vJJ0tNw
+
+
+
+## 2024.07.18
+
+2024年7月18日 💡行业快讯
+
+1. OpenAI 联合创始人 Andrej Karpathy（卡帕西）官宣创业，创办 Eureka Labs —— 一家 AI 原生的新型学校。
+
+   https://mp.weixin.qq.com/s/d833qabx-wpFRVJAlwZzIA
+
+2. 禾赛获得百度萝卜快跑新一代无人驾驶平台主激光雷达独家定点，单车搭载 4 颗超高清远距激光雷达 AT128，其探测距离超过 200 米，并将高清三维感知覆盖到了 360°。
+
+   https://mp.weixin.qq.com/s/WDbEUPr9EofqyAMRj_ruDQ
+
+3. 特斯拉最新专利对外公开，是关于新材料对电池循环寿命的提升，突破了一个电池行业老大难问题——富锰正极材料。
+
+   https://mp.weixin.qq.com/s/j6nuGCBSM6l5LxjU_wRMJg
+
+4. 欧盟委员会就对中国进口的电动汽车征收额外关税问题进行咨询性投票，一半以上国家反对或弃权，欧盟27个会员国未能达成一致。
+
+   https://mp.weixin.qq.com/s/MQ95KITGDhohwMHIceYYuA
+
+5. 美国联邦调查局（FBI）近日宣布，在前总统唐纳德·特朗普遭遇枪击事件后，成功解锁了嫌疑人托马斯·马修·克鲁克斯的手机。但这也引发了大家对执法与隐私之间的较量和探讨。
+
+   https://mp.weixin.qq.com/s/-3wDkPkO1FjT-Y2nu7c0Zg
+
+6. 被誉为“人形机器人第一股”的优必选，其股价正经历连续“挤水分”，四个月股价下跌 65.3%，400 多亿港元市值蒸发。
+
+   https://mp.weixin.qq.com/s/_R5NIdtzNaDZDnkREfSkXw
+
+7. 两家专注细分领域的机器人公司近日完成新一轮融资，分别是专注于半导体自动物料搬运系统（AMHS）的弥费科技，以及成立仅1年的丰坦机器人。
+
+   https://mp.weixin.qq.com/s/eYcND7CzjY1mHQ_Wi2AyBg
+
+8. OTA（Over-the-Air，空中升级）是物联网设备的必备功能，本文介绍了嵌入式设备 OTA 升级原理、流程及方案。
+
+   https://mp.weixin.qq.com/s/zwy7drm6mlMPrBSgRfiU0w
+
+9. Ollama 是一个开源的机器学习模型部署工具，它可以帮助您将模型部署到生产环境中，简化大型语言模型（LLM）的管理和交互。本节介绍如何使用 Kubernetes 部署一套专属的 LLM。
+
+   https://mp.weixin.qq.com/s/lO8tcutBpQkktk0NCRiLyg
+
+10. UWB（Ultra Wide Band，超宽带）是一种无线载波通信技术，本文简要介绍了为何 AR/VR 设备需要使用 UWB？
+
+    https://mp.weixin.qq.com/s/pdq1UlDRKX8-NLNFfeC8UA
+
+11. DonkeyCar 是一个基于 Python 开发的开源自动驾驶项目，本文介绍如何使用 DonkeyCar 打造的开源自动驾驶平台，构建自动驾驶系统。
+
+    https://mp.weixin.qq.com/s/W5gvAWR5sESP7Y3f8f5qyQ
+
+12. 创客项目：从零开始做一辆简易麦克纳姆轮小车。
+
+    https://mp.weixin.qq.com/s/VBhIrzgVMF86nbX8TkVBbg
+
+
+
