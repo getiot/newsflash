@@ -326,3 +326,55 @@
 
 
 
+## 2024.07.19
+
+2024年7月19日 💡行业快讯
+
+1. 根据路透社的独家报道，美国云软件开发工具供应商 GitLab 正在考虑出售，该公司目前市值约 80 亿美元（约 582.43 亿元人民币），投资者包括谷歌母公司 Alphabet。
+
+   https://mp.weixin.qq.com/s/_RfzCsMLRlTs3mx2TGGvaw
+
+2. Arm 官方宣布，Mbed 开发平台和操作系统将于2026年7月起终止使用，届时 Mbed 网站将被存档，将无法再利用在线工具中构建项目。不过由于 Mbed OS 软件是开源的，将保持公开可用，只是 Arm 将不再积极维护。
+
+   https://mp.weixin.qq.com/s/f4Y6ylAaP31gruoUuKAL0w
+
+3. 快手前 AI 核心人物李岩成立的 “元石科技” 最近上线新产品「问小白」，本文是 AI Pioneers 栏目的独家专访，详细介绍了李岩的创业计划。
+
+   https://mp.weixin.qq.com/s/P0nrMP6SlduwRfYNfvlEuw
+
+4. 财政部与国家税务总局联合发布关于节能节水、环境保护和安全生产专用设备数字化、智能化改造企业所得税政策公告，企业 IoT 设备投入可以抵税。
+
+   https://mp.weixin.qq.com/s/0vxUwwA6nNXx-LoHWapfJw
+
+5. 无线充电联盟即将发布新标准 “Ki 无线厨房”，将带来厨房电器的重大创新，厨电从此变得更智能、更纤薄，更加节省空间。
+
+   https://mp.weixin.qq.com/s/72Xf4zBGqjv2YVjKCKyM6Q
+
+6. EMQ 映云科技发布《EMQX Platform + Apache Kafka：企业级流数据处理方案》白皮书，助力企业构建一个能够高效连接并管理海量智能设备的数据系统，为企业数字化转型提供坚实的数据支撑与处理能力。
+
+   https://mp.weixin.qq.com/s/NrcsGRSqLxNUqZQsxMIgBg
+
+7. 全球大概有2.5亿个私家花园。其中，8000万个分布在欧洲，1亿个分布在美国。但庭院里野蛮生长的杂草，让人非常头痛。来自中国的九号机器人公司推出了割草机器人 Navimow，针对该应用场景，做了一次成功的尝试。
+
+   https://mp.weixin.qq.com/s/LgNP0lwyAd7-GnhvObyYXg
+
+8. 本文介绍了苹果 macOS 和 iOS 与 BSD 的历史渊源及其深远影响。
+
+   https://mp.weixin.qq.com/s/BKQez6YyxyuDtTxgeHk1Kg
+
+9. 创客项目：HomeAssistantUSB 小夜灯控制器。作者介绍了他是如何用一块免费的 PCB 将家里的灯改造成可远程控制的 USB 小夜灯。
+
+   https://mp.weixin.qq.com/s/6s-G_bChbsqZJErzSqr8ug
+
+10. 活动预告：CommunityOverCode Asia 2024 主题演讲将于7月26-28日在杭州举办。CommunityOverCode 是 Apache 软件基金会（ASF）的官方全球系列大会，其前身为 ApacheCon。
+
+    https://mp.weixin.qq.com/s/IRhZ2l1W5mNAmAa3_IzN0Q
+
+11. 活动预告：2024 年度中国 Linux 内核开发者大会（CLK）启动中，承办单位开放报名。
+
+    https://mp.weixin.qq.com/s/ofdPh7Iqob_LlWKleBuH_Q
+
+12. 文献荐读：Nature Energy 基于生成式机器学习的气候变化影响分析。
+
+    https://mp.weixin.qq.com/s/Ab-dUKItQZe3vFygOmEapA
+
