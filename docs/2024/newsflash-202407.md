@@ -378,3 +378,56 @@
 
     https://mp.weixin.qq.com/s/Ab-dUKItQZe3vFygOmEapA
 
+
+
+## 2024.07.20
+
+2024年7月20日 💡行业快讯
+
+1. 全球各地大量安装 CrowdStrike 的 Windows 用户突然遇到了蓝屏问题。目前的情况表明，该故障似乎是由安全公司 CrowdStrike 的更新文件引起的。
+
+   https://mp.weixin.qq.com/s/NNqk2AFJoEo9hDQEQqdmvg
+
+2. OpenAI 发布新模型 GPT-4o mini，全面取代老去的 GPT-3.5，大模型成本两年骤降 99%。
+
+   https://mp.weixin.qq.com/s/47WucKcTcoMKlzNFAcmOnQ
+
+3. 雷军昨晚在小米北京总部举办了 2024 年度演讲，主题是“勇气”，首次揭秘小米造车细节，本文摘录了本次演讲的重点内容。
+
+   https://mp.weixin.qq.com/s/ae0ld9uymLI3UuyXQEqvbw
+
+4. 扫地机器人两巨头“互掐”，追觅科技起诉石头科技的 P10Pro 和 P10SPro 两款扫地机器人侵犯其“清洁装置及清洁设备”的专利权。
+
+   https://mp.weixin.qq.com/s/pQwCssvhSpozXy0eeJ6dMA
+
+5. 据悉小鹏汽车计划在第四季度推出的新车型 F57（也就是 P7+）将放弃激光雷达，转向纯视觉路线。但似乎激光雷达越装越多，让整个市场变得更加扑朔迷离。
+
+   https://mp.weixin.qq.com/s/rjDqct1KsWFmSYGXzAeEJw
+
+6. 携程创始人梁建章在国际顶尖学术期刊 Nature 上发表了题为《Hybrid working from home improves retention without damaging performance》的研究论文，该研究显示：居家办公能降低员工离职率，且不损害工作表现。
+
+   https://mp.weixin.qq.com/s/1gmJE64LpViHRfCWHCebVA
+
+7. Embassy 是采用 Rust 语言编写的异步操作系统，本文将基于 STM32F446ZET6 单片机测试 Embassy 和 FreeRTOS 下的响应性能和资源占用大小。
+
+   https://mp.weixin.qq.com/s/nT0u6LpVKhmJKfhScJ9tOg
+
+8. 技术科普：什么是 IP 地址端口映射，它的工作原理是怎样的？
+
+   https://mp.weixin.qq.com/s/xFvBxiRMKE66ZADSYIsjLg
+
+9. 万字纪实：本文来自长期从事大模型系统软件工作的技术大牛方佳瑞，详细介绍了大模型 Infra 的发展历程，对于工程师们来说，这篇文章是一份宝贵的指南。
+
+   https://mp.weixin.qq.com/s/1fnWsf4zVcBuzBhC4Vx9zw
+
+10. 创客项目：迷你智能车 Liguanxi-smart-car。该项目使用两个 ESP32 作为主控，ROS 系统使用 noetic 版本，作者还分享了他的学习心得。
+
+    https://mp.weixin.qq.com/s/N4iiwpxxE7ihAJpq4X2_Cw
+
+11. 活动预告：大湾区国际创客峰会暨 Maker Faire Shenzhen 2024 将于11月16-17日在深圳举行，本届主题为“万物皆可 AI”。
+
+    https://mp.weixin.qq.com/s/_Z1idU_JDWFkaX2FbRdk_A
+
+12. 独立开发是不是个好工作？
+
+    https://mp.weixin.qq.com/s/6vwKPXWb-08G1Bhv9zoLPg
