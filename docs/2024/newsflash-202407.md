@@ -431,3 +431,57 @@
 12. 独立开发是不是个好工作？
 
     https://mp.weixin.qq.com/s/6vwKPXWb-08G1Bhv9zoLPg
+
+
+
+## 2024.07.22
+
+2024年7月22日 💡行业快讯
+
+1. 自动驾驶争议中的冷思考：为何要坚定发展不动摇？
+
+   https://mp.weixin.qq.com/s/8MoIlaorbwzVMkp1uPriyA
+
+2. 产研：BLE+UWB+NFC+星闪，哪种技术会成为汽车数字钥匙主流？
+
+   https://mp.weixin.qq.com/s/LvyXy16kgjpKi2Lh7x9iqg
+
+3. 《麻省理工科技评论》万字长文：什么是人工智能？
+
+   https://mp.weixin.qq.com/s/urnBmheAWXNCDM5A8tAFYg
+
+4. 胖·阅读：读吴恩达《How to build your career in AI》有感。
+
+   https://mp.weixin.qq.com/s/koWu3II7SbgnbUeWy-qY5A
+
+5. Wanderboat AI 是一家由硅谷初创公司 UTA AI 推出的智能旅行规划平台，获得了红杉资本的投资支持，该平台由两位具有深厚 AI 搜索技术背景的华人共同打造。
+
+   https://mp.weixin.qq.com/s/GLJqj_ijgy3P4LmlUa9N3A
+
+6. 小家电品牌「斗禾科技」凭借其独特的战略布局和卓越的执行力，实现出海年收超10亿。本文分享了斗禾科技的核心竞争力和品牌推广经历。
+
+   https://mp.weixin.qq.com/s/FGx0a6e8co0fBAI5zmpJLA
+
+7. 据记者调查，继充电桩和换电站之后，移动充电机器人成为充换电市场新出现的投资方向，有四十多家相关企业先后涌入，试图打开一片新的天地。
+
+   https://mp.weixin.qq.com/s/ioy3s6XG-fd_u1CqUZRaDQ
+
+8. 本文分析了为什么中国软件公司普遍做不大？不如欧美软件公司，甚至也比不上印度软件公司。
+
+   https://mp.weixin.qq.com/s/SpA5FsNvQCoG3-GKd8jRyQ
+
+9. 罗永浩创业揭秘，两款 AI 硬件：AI 原生硬件 + AI 耳机。
+
+   https://mp.weixin.qq.com/s/N_NoMtrDK9DxITNfLpyBWw
+
+10. 项目分享：前端建站的新神器 Web Builder。它是一款基于 TailwindCSS 的低代码前端框架，支持通过拖拽可视化快速构建响应式、多主题、多语言的 Web 应用。
+
+    https://mp.weixin.qq.com/s/_v1CIG2F139tCScaFhC-JQ
+
+11. 项目分享：赛博朋克风智能桌面时钟 Cyber Clock。它集合了 OLED 显示屏、温湿度传感器、互联网校时功能于一体，让你随时掌握环境信息。
+
+    https://mp.weixin.qq.com/s/rRzNnL4E4IOuFKyBkULacQ
+
+12. 招聘信息：RT-Thread 诚聘资深嵌入式 OS 软件开发工程师。
+
+    https://mp.weixin.qq.com/s/P7kBxBjN-UgBiteTz9uQHQ
