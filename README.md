@@ -2,6 +2,10 @@
 
 这里收集每天值得分享的 AIoT 行业科技快讯，本项目开源，你可以通过 [GitHub issue](https://github.com/getiot/newsflash/issues) 提交资讯链接。
 
+信息发布渠道包括微信公众号「**人人都懂物联网**」（扫描下方二维码）和 [即刻App](https://m.okjike.com/users/8955da66-7b8a-44f8-917a-fa7dd047b719) 官方账号。
+
+![](https://static.getiot.tech/qrcode_258.jpg)
+
 ## 信息源
 
 国内：
