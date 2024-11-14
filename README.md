@@ -14,9 +14,12 @@
 - [中国科技网](https://www.stdaily.com)
 - [央视网](https://www.cctv.com)
 - [证券时报](https://www.stcn.com)
+- [凤凰网财经](https://finance.ifeng.com)
 - [OSCHINA](https://www.oschina.net)
 - [CSDN](https://www.csdn.net)
 - [物联网智库](https://www.iot101.com)
+- [全天候科技](https://awtmt.com)
+- [齐思](https://news.miracleplus.com)
 
 海外：
 
