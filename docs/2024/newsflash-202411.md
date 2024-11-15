@@ -131,3 +131,62 @@
 15. 印度人，为什么比中国人敢花钱？
 
     https://mp.weixin.qq.com/s/-MuEUIIlT9JA0bSzmOCiqA
+
+
+
+## 2024.11.16
+
+2024年11月16日 💡行业快讯
+
+1. 天舟八号货运飞船发射任务圆满成功！次发射是长征系列运载火箭第546次发射。
+
+   https://mp.weixin.qq.com/s/32Bm_poR6oPTkG6725Db4w
+
+2. 小米汽车第一次参加广州车展，小米集团董事长兼 CEO 雷军成了现场不折不扣的“人气王”，每到一地，围观者甚众。预售价81.49万元的小米 SU7 Ultra 在本届广州车展上正式亮相。
+
+   https://mp.weixin.qq.com/s/ax0TRpaNhm0zNG7JSnKXjA
+
+3. 从制造2025到新型工业化，百度们别再“赋能”，而要“共生”。
+
+   https://mp.weixin.qq.com/s/tf5oW2pT17EDudpot4iMnw
+
+4. 一位专业投资人，投了30多家 SaaS 公司后的五个判断。
+
+   https://mp.weixin.qq.com/s/vhIvbuMrdpPi1lSSuFfXNA
+
+5. 发力 AI Agent！OpenAI 将推出“Operator” ，2025年1月上市。
+
+   https://mp.weixin.qq.com/s/FsfLWAy1vWNHE3z2V9ei5Q
+
+6. 谷歌2024博士奖学金公布，KAN作者刘子鸣等数十位年轻华人学者入选。
+
+   https://mp.weixin.qq.com/s/5L39BdG6XWmL4Nl-pwM6kQ
+
+7. AI 生成代码量狂飙至 40%！智能编程助手如何改变开发的游戏规则？
+
+   https://mp.weixin.qq.com/s/apJx0m24MVf5xeBL4wMNog
+
+8. AI 托管商家经营: 1688 电商 AI 落地实战。
+
+   https://mp.weixin.qq.com/s/wFSJ47ebDU1gT6iv0uxkKg
+
+9. 阿里巴巴集团发布2025财年二季报（相当于2024年三季度报），季度收入2365.03亿元，同比增长5%。连续三个季度回购规模超40亿美元。
+
+   https://mp.weixin.qq.com/s/m6CV30C5LiXzCmB1Hr8-3A
+
+10. 美国科研还是世界第一吗？
+
+    https://mp.weixin.qq.com/s/N6v7wcSSJwwVLuwAfP-jlQ
+
+11. 全球气候目标难实现？《全球碳预算》：今年二氧化碳排放又创新高。
+
+    https://mp.weixin.qq.com/s/4e0gGyVDpjKSRhNPcH-eZw
+
+12. 对话小宇宙 Kyth：AI 时代，如何重新理解播客的价值。
+
+    https://mp.weixin.qq.com/s/TpxwWbhj04RiZYVblCYoLw
+
+
+
+
+
