@@ -188,5 +188,57 @@
 
 
 
+## 2024.11.18
+
+2024年11月18日 💡行业快讯
+
+1. 中国银河证券宏观经济分析师张迪指出，短期内，人民币对美元汇率比较关键的位置可能在7.30左右。如果来到这个位置附近，中国央行可能会采取逆周期调节行动，坚决对顺周期行为予以纠偏，防止市场单边预期自我强化，保持人民币汇率基本稳定。
+
+   https://mp.weixin.qq.com/s/nxf0ufBUavIalEP6mdQQWg
+
+2. 第十五届中国航展17日闭幕，本届航展歼-35A和歼-15T等多型战机，红旗-19地空导弹武器系统、月背月壤样品等首次正式亮相。观众累计参观规模近60万人次，签约金额超2800亿人民币。
+
+   https://mp.weixin.qq.com/s/15lKyfNj8IKNlI21J0RsuQ
+
+3. OpenAI 在周三由美国战略与国际研究中心在华盛顿特区主办的一次活动上公开了其最新的政策蓝图。这份蓝图详细地探讨了美国应该如何保持其在人工智能领域的领先地位，以及如何满足 AI 技术所的巨大能源需求。
+
+   https://mp.weixin.qq.com/s/Pi6P1UhODSw9yFEVP4jPbA
+
+4. 由于不依赖国外编程语言和操作系统内核等核心技术，HarmonyOS NEXT彻底脱离了安卓操作系统，因此，外界将HarmonyOS NEXT称为纯血鸿蒙。今年一季度，鸿蒙系统在国内市场的份额达到17.2%，首次超越苹果iOS系统，成为仅次于安卓的第二大操作系统。
+
+   https://mp.weixin.qq.com/s/O_4IOMV6MbQeLpcxoybNnQ
+
+5. 2024年10月 OpenLeaderboard 开源生态数据洞察报告。OpenLeaderboard 开源生态数据洞察报告包括四大榜单：活跃度排行榜、活跃度跃升榜、OpenRank 影响力排行榜、以及 OpenRank 影响力跃升榜。这一系列榜单为开源生态的动态和项目的协作模式提供了多维度的视角。
+
+   https://mp.weixin.qq.com/s/Kj6pghIiRv4c2vgDiIzBEA
+
+6. 在九月份的邮件中，C++ 第21工作组发布了一项名为“Safe C++ 扩展“的提案，随后在网上引发了关于 C++ 是否能复制 Rust 的内存安全性的广泛讨论。
+
+   https://mp.weixin.qq.com/s/aSMWk-ttWjf184e3_v-hPQ
+
+7. Shopify 将应用迁移到 React Native，跨平台代码达到 86%，旧代码减少 180 万行。
+
+   https://mp.weixin.qq.com/s/8JwgnJVznSa2U5waKGk6CQ
+
+8. 近日，中国汽车工业协会（简称“中汽协”）召开沟通会，发布9月以及2024年前三季度汽车行业重要数据。根据中汽协最新预测，中国新能源汽车全年销量有望超预期地达到1200万辆。
+
+   https://mp.weixin.qq.com/s/SU-gu5SMIA-ODiqMXtXZEw
+
+9. 近期，手机回收服务商闪回科技有限公司再次向港交所递交招股书，拟在香港 IPO 上市。成立至今，闪回科技已获得小米、顺为资本、同创伟业、深智城集团、转转等机构的投资。
+
+   https://mp.weixin.qq.com/s/khWFM3qHIOriyRQaPEPUxQ
+
+10. 最近，昔日股王“四川长虹”搭上了华为等诸多热门题材，股价再次大涨，市值一度重回历史之巅。但过往荣光，一去不返。
+
+    https://mp.weixin.qq.com/s/Vc9ntPK7ZIGV-Mk8dcHH-A
+
+11. 近日，以“谱全球储能新篇 筑安全绿色高地”为主题的2024世界储能大会在福建省宁德市举办，与会的中外院士专家认为，未来10年，储能产业发展空间巨大、市场前景广阔，对构建新型电力系统至关重要。
+
+    https://mp.weixin.qq.com/s/MiL9MmNbtxDgpuywTguPXg
+
+12. 储能行业市场分析及发展趋势报告（2024）。
+
+    https://mp.weixin.qq.com/s/_ZtkZ-nOLlvgX0EP6T8Vbw
+
 
 
