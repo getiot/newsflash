@@ -242,3 +242,49 @@
 
 
 
+## 2024.11.19
+
+2024年11月19日 💡行业快讯
+
+1. 近日，多个海外物联网方案供应商反馈，美国知名运营商 AT&T 从今年年底开始将不再支持 NB-IoT，对此 AT&T 也没有给出任何原因。这是继2020年日本运营商 NTT Docomo 宣布关停 NB-IoT 后，又一家全球头部运营商做出退出 NB-IoT 领域的决定。
+
+   https://mp.weixin.qq.com/s/FskpJr4lwcllSJYMbdYGAA
+
+2. 腾讯研究院发布了一份《十问 AI 陪伴》的报告探讨了这一趋势。人类是否需要 AI 陪伴，需要怎样的 AI 陪伴？AI 陪伴产品距离“成熟”还有多远，我们如何预测和准备AI陪伴对社会的长期影响？
+
+   https://mp.weixin.qq.com/s/BcMvw8RblU4szYviwotssQ
+
+3. 刘润：恳请你，一定要把 AI 当回事！每一次巨大的技术变化背后，都是一次巨大的机会。怎么才算把它当回事？别焦虑。先认识它，拥抱它，持续刷新自己对它的认知。未来的竞争，是认知的竞争。
+
+   https://mp.weixin.qq.com/s/GzuWxPES-xrLIshy0KbTVQ
+
+4. 今年4月顶着“AIGC第一股”上市的出门问问（02438.HK）股价已跌至不足1港元，较上市发售价跌掉了超七成，成为了年内“最惨 AI 股”，投资者巨亏数千万。
+
+   https://mp.weixin.qq.com/s/EkASvuL8gAYtMZz6MMZNBw
+
+5. 四川长虹是一家家电公司，自今年九月下旬开始，其股价从4.7元上涨到18元，累计涨幅283%。然而，11月18日，在经过一番挣扎后，四川长虹股价狠狠的摔在了跌停上。为什么四川长虹难以保持长期增长？
+
+   https://mp.weixin.qq.com/s/GWA4OukbXjD32ZifBjUYvg
+
+6. P-Box 兴衰：导远、德赛西威与理想供应链的一个故事。在主机厂降本压力下，P-Box 比想象中更快地迎来了它的落幕时刻。据知情人士消息，到今年年底为止，出于成本考虑，理想旗下车型将不再搭载 P-Box，只保留零部件IMU模组；比亚迪明年也将去除 P-Box。
+
+   https://mp.weixin.qq.com/s/jhpknPsYcFPeVvwLFXUeAA
+
+7. 近日，《联合国气候变化框架公约》第二十九次缔约方大会（以下简称“COP29”）在阿塞拜疆首都巴库开幕。开幕当天，缔约方就《巴黎协定》第六条第四款机制（简称《巴黎协定》6.4条）下的碳信用标准及其动态更新机制达成共识，标志着全球碳市场机制取得重大进展。
+
+   https://mp.weixin.qq.com/s/TWoWyV5xh0BW0IWP8CUQeg
+
+8. Zeroth 01 Bot 是一款硬件强大，开源且可破解的双足人形机器人，整体零部件 BOM 成本仅为350美元，约合2535元人民币。作为开源项目，团队发布了材料与零部件、3D 打印零件、组装指南、安装调试、软件开发与算法模型操控等 Zeroth Bot 所需的所有软件和说明。
+
+   https://mp.weixin.qq.com/s/9aNJd6onh7efyjIHJq_g9w
+
+9. DevFest 是由全球各地的谷歌开发者社区（Google Developer Groups，GDG）主导的为期数月的系列 Google 技术交流活动。DevFest 为参与者提供了一个与 Google 员工、GDE（谷歌开发者专家）、社区 KOL、行业开发者和问题解决者面对面交流的绝佳机会。今年的 DevFest 开发者嘉年华已经拉开帷幕！
+
+   https://mp.weixin.qq.com/s/MZ3tHcX0OBoWDOlzbTcfuQ
+
+10. ROSCon China 2024，一场汇聚全球机器人技术精英的盛会，即将在2024年12月7-8日于上海震撼开启，带你领略一场前所未有的科技冒险！
+
+    https://mp.weixin.qq.com/s/LUJNKHQn6P0TtUROIs-RJA
+
+
+
