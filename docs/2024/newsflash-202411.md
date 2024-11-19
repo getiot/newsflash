@@ -250,7 +250,7 @@
 
    https://mp.weixin.qq.com/s/FskpJr4lwcllSJYMbdYGAA
 
-2. 腾讯研究院发布了一份《十问 AI 陪伴》的报告探讨了这一趋势。人类是否需要 AI 陪伴，需要怎样的 AI 陪伴？AI 陪伴产品距离“成熟”还有多远，我们如何预测和准备AI陪伴对社会的长期影响？
+2. 腾讯研究院发布了一份《十问 AI 陪伴》的报告，探讨了 AI 陪伴机器人的发展趋势。人类是否需要 AI 陪伴，需要怎样的 AI 陪伴？AI 陪伴产品距离“成熟”还有多远，我们如何预测和准备AI陪伴对社会的长期影响？
 
    https://mp.weixin.qq.com/s/BcMvw8RblU4szYviwotssQ
 
@@ -287,4 +287,48 @@
     https://mp.weixin.qq.com/s/LUJNKHQn6P0TtUROIs-RJA
 
 
+
+## 2024.11.20
+
+2024年11月20日 💡行业快讯
+
+1. 11月19至21日，XAAC 2024 极飞科技年度大会在广州举办。大会以 “未来农场，近在眼前” 为主题，汇聚了来自 60 多个国家和地区的近 2000 位合作伙伴与用户，共同见证智慧农业生态系统的落地。
+
+   https://mp.weixin.qq.com/s/L4GzACv6XfERXgsxB8zqzg
+
+2. 2024年11月12日，托马斯·e·库尔茨教授在新罕布什尔州黎巴嫩的一家临终关怀中心去世，享年 96 岁。他的离去感动了整个计算机界，因为他不仅是 BASIC 语言的共同发明人，也是推动计算机教育民主化的先驱。
+
+   https://mp.weixin.qq.com/s/DlCzg70cTcY4Ca6CHk5M8w
+
+3. Argo 发布一部关于简化 Kubernetes 部署的自动化工具的新纪录片，这部影片由 CNCF 和 Speakeasy Productions 制作，带领观众深入了解这个开创性的开源项目的旅程。该项目彻底改变了 Kubernetes 工作流，并展示了 Argo 如何从一个单一的工作流引擎成长为一套强大的工具，简化和自动化 Kubernetes 部署 —— 包括 Argo Workflows、CD、Rollouts 和 Events。
+
+   https://mp.weixin.qq.com/s/TZZ9MIKt2LszLGeNi5K16Q
+
+4. GPT-4 之后，明年的 OpenAI 在憋什么大招？OpenAI 的护城河在哪？AI Agent 的价值在哪？众多老员工“出走”，OpenAI 会选择更有信念感和活力的年轻人吗？11月4日，OpenAI CEO Sam Altman（以下称“Altman”）在“The Twenty Minute VC”播客中回答了这些问题，他明确表示，提升推理能力一直是 OpenAI 的核心战略。
+
+   https://mp.weixin.qq.com/s/4gtM5lgqrbieiYKyOKMDvA
+
+5. 当前，我国许多城市的新能源车渗透率已超过 50%，但是农村地区的新能源车渗透率还是偏低。中国汽车工业协会充换电分会、中国电动汽车充电基础设施促进联盟副秘书长仝宗旗表示：农村新能源汽车市场空间广阔，未来将成为我国新能源汽车的主要增量市场，但农村地区公共充电基础设施建设不足等问题，制约了农村地区新能源汽车消费潜力的释放。
+
+   https://mp.weixin.qq.com/s/p2jtbzoTUBUbVQBMPJKjDw
+
+6. 随着电动化趋势在全球范围内加速，中国汽车行业在未来数年面临复杂的市场格局和持续的转型压力。标普全球评级（S&P Global Ratings）近日发布的分析报告，详细阐述了中国汽车行业在2024至2026年间的销量预期、信用影响、评级趋势、以及电动化进程与本土品牌竞争力。
+
+   https://mp.weixin.qq.com/s/RmOPTes2GenNBpMbbtJg7A
+
+7. 比亚迪如何管理 90 万人？11月18日，在比亚迪成立 30 周年暨第 1000 万辆新能源汽车下线发布会上，王传福首次讲述比亚迪 30 年创业经历，从 30 年前小厂房里 20 人的创业团队，发展到如今近百万名员工的世界级企业，背后的酸甜苦辣，恐怕只有王传福最清楚。
+
+   https://mp.weixin.qq.com/s/_vuHBdIPaoXsj1rWkrJ_dw
+
+8. 倡导“三勤六和”的万兴科技（300624.SZ），2024年以来并不平静。11月18日，公司副总经理、董秘朱雯雯离任，这距离她上任履新还不满9个月。
+
+   https://mp.weixin.qq.com/s/Az-jO1FnwMEh-j4FEhZygA
+
+9. 阳光电源近日与英国 Fidra Energy 成功签署 4.4GWh 储能合作协议，将助力英国建成 3.3GWh Thorpe Marsh 和 1.1GWh WestBurton C 两座标杆独立储能电站。据了解，该项目将接入英国最高电压等级电网，参与当地辅助服务和电力市场交易，助力英国实现 2050 年脱碳目标。
+
+   https://mp.weixin.qq.com/s/yyWTs_WGnAVfagwNtb2DTw
+
+10. 在全球气候变化日益紧迫的当下，世界卫生组织（WHO）在第 29 届联合国气候变化大会（COP29）前夕发出强烈呼吁：必须立即将健康考量融入气候谈判的核心议题，以应对前所未有的气候与健康双重危机。
+
+    https://mp.weixin.qq.com/s/vtygILDazfvO0TuKd3iRrQ
 
