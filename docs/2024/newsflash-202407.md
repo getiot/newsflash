@@ -485,3 +485,29 @@
 12. 招聘信息：RT-Thread 诚聘资深嵌入式 OS 软件开发工程师。
 
     https://mp.weixin.qq.com/s/P7kBxBjN-UgBiteTz9uQHQ
+
+
+
+## 2024.07.24
+
+2024年7月24日 💡行业快讯
+
+1. 乐鑫科技 2024年一季度营业收入 3.87 亿元，归属母公司所有者净利润为 0.54 亿元，均创历史同期单季新高，位居全球 Wi-Fi 芯片市场第五。
+
+   https://mp.weixin.qq.com/s/FdC-rl4Xxf_LsW2_sDZBcA
+
+2. 唐山松下产业机器人有限公司与北京小雨智造科技有限公司达成战略合作，旨在共同开发先进的大模型智能焊接机器人。小雨智造是小米投资的首家具身智能企业，创始人乔忠良是小米的早期成员。
+
+   https://mp.weixin.qq.com/s/7c7Se0eywg1f4GbAImNFQg
+
+3. UDS 作为汽车电子领域必备技能，而很多入行者甚至工作多年的老工程师们却难以精准掌握。本文通俗易懂地介绍了 UDS 的基础知识。
+
+   https://mp.weixin.qq.com/s/US-OyHbV4MwrD71qtfP10Q
+
+4. CRC 校验算法是一种广泛应用于数据通信和存储系统中的错误检测方法，主要用于检测数据在传输过程中是否发生了改变。本文详细介绍了 CRC 校验算法的 C 语言实现。
+
+   https://mp.weixin.qq.com/s/DNI7LDGte_KsQExhSAJMzw
+
+5. 本文以 STM8 为例，介绍了影响 MCU 低功耗的一些因素。
+
+   https://mp.weixin.qq.com/s/j6el_2MoaePJb9lGaSXUhg
