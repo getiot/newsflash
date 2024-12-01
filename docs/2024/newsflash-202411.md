@@ -666,11 +666,9 @@
 
 ## 2024.11.30
 
-知乎接近盈利；
-
 2024年11月30日 💡行业快讯
 
-1. 月之暗面 Kimi 联合清华大学等机构，开源了大模型推理架构 **Mooncake**。根据官方介绍，本次开源将采用**分阶段的方式**：逐步开源高性能 KVCache 多级缓存 Mooncake Store 的实现，同时针对各类推理引擎和底层存储/传输资源进行兼容。该项目的 GitHub 开源地址是 https://github.com/kvcache-ai/Mooncake。
+1. 月之暗面 Kimi 联合清华大学等机构，开源了大模型推理架构 **Mooncake**。根据官方介绍，本次开源将采用分阶段的方式：逐步开源高性能 KVCache 多级缓存 Mooncake Store 的实现，同时针对各类推理引擎和底层存储/传输资源进行兼容。该项目的 GitHub 开源地址是 https://github.com/kvcache-ai/Mooncake。
 
    https://mp.weixin.qq.com/s/-0YxV77HnEEtrvxJSSujmQ
 
