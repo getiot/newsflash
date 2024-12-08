@@ -182,4 +182,48 @@
 
     https://mp.weixin.qq.com/s/OBPo0tzXUnVbUqHzMcFogg
 
-    
+
+
+## 2024.12.09
+
+2024年12月09日 💡行业快讯
+
+1. Meta 开源了最新的 Llama3.3-70B 模型，这是 Llama3.3 系列目前唯一开源的模型。尽管该模型的参数规模仅仅 700 亿，但是在多项评测基准上已经超过了 4050 亿参数规模的 Llama3.1-405B，后者是 Llama 系列模型中参数规模最大的一个，也是业界开源模型中参数规模最高的模型之一。
+
+   https://mp.weixin.qq.com/s/Gr9IF01D0yl477cYcbVlUQ
+
+2. 12月8日是支付宝和蚂蚁集团的20岁生日。当天，来自全球各地的部分员工相聚在杭州蚂蚁集团总部，通过生日嘉年华、时光接力跑、公益志愿者活动等方式致敬初心理想，共度20周年。久未公开露面的马云也在当天晚间现身蚂蚁园区，为蚂蚁员工加油鼓劲。
+
+   https://mp.weixin.qq.com/s/S5V2PU1sj_Eh9WCuYGk5vg
+
+3. 随着比特币等加密货币价格走上高位，美图公司于2024年12月4日售出所持有的全部已购买加密货币，合共约 3.1 万单位以太币和 940 单位比特币。美图公司此次交易总现金对价分别约为 1 亿美元及 0.8 亿美元，出售获利约 7963 万美元（相当于人民币约 5.71 亿元）。美图公司董事会拟将其出售获利净额约 80% 用作支付特别股息，而剩余的出售获利净额则作为一般营运资金，以扩展公司以付费订阅制为主的图像与设计产品业务。
+
+   https://mp.weixin.qq.com/s/awhb4JM1hEI00P7ws90rWg
+
+4. 商务部全国家电以旧换新数据平台显示，截至12月6日24时，2963.8 万名消费者购买8大类家电产品 4585 万台，带动销售 2019.7 亿元，其中一级能效产品销售额占比超过 90%。全国家电以旧换新销售额突破 1000 亿元用了 79 天，从 1000 亿元到 2000 亿元仅用 40 天，更新消费潜力加速释放。
+
+   https://mp.weixin.qq.com/s/kVQ7aAvgCndeQNnoIF3DBg
+
+5. NotebookLM 是 Google 实验室推出的一款在线笔记本，NotebookLM 内置 Gemini，它可以根据用户上传的内容生成摘要、注解和用户想要的答案。但当 NotebookLM 项目爆火之后，NotebookLM 核心团队成员却选择离职，另起炉灶创业。
+
+   https://mp.weixin.qq.com/s/ZhlY8H_ulhhbTy3McI6Rcw
+
+6. 苹果首款自研调制解调器芯片或最快明年亮相，以逐步取代高通组件。该组件将用于苹果入门级智能手机 iPhone SE，这款手机将于明年进行自2022年以来的首次更新。
+
+   https://mp.weixin.qq.com/s/sgiNZ-CY_0-U5Q3s7YPmYQ
+
+7. React 19 版本正式发布，此版本带来了许多新功能和改进，旨在提升开发体验和应用性能，前端开发者值得看一看。
+
+   https://mp.weixin.qq.com/s/GO-ZHy1Ywry7rurRUgUbhA
+
+8. 中国互联网企业综合实力百强榜公布，寻梦（拼多多）、抖音、蚂蚁科技、淘天、腾讯位列前五。
+
+   https://mp.weixin.qq.com/s/nwhx8l-x5NPPCWHZ6GH9JQ
+
+9. 当一朵花选择盛开：鸿蒙开发者的个人史诗。
+
+   https://mp.weixin.qq.com/s/5i-YrIIF96gj7KkwgRnCkg
+
+10. 我国科研团队研发出世界首个太阳能微型飞行器。
+
+    https://mp.weixin.qq.com/s/W4pozxz4dmYrTnHERy0kVQ
