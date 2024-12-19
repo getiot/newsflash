@@ -487,3 +487,41 @@
 10. 豆包大模型12月日均 tokens 使用量超过4万亿，较5月发布时期增长超过33倍。tokens 调用规模化增长的同时，豆包大模型在不同场景中，都在快速增长、全面开花。不断增加的调用量和多场景覆盖，让豆包大模型越来越全面，迎来重磅升级。
 
     https://mp.weixin.qq.com/s/WNdxfPXQ4KfqnFxNiCV46g
+
+
+
+## 2024.12.20
+
+2024年12月20日 💡行业快讯
+
+1. 美国时间 2024 年 12 月 18 日，GitHub 官方宣布了一个激动人心的重大消息：GitHub Copilot 将为 Visual Studio Code 用户推出免费版本，同时 GitHub 平台的全球开发者数量已突破 1.5 亿大关。这一决策将让更多开发者能够体验到 AI 辅助编程带来的效率提升。
+
+   https://mp.weixin.qq.com/s/aXpUh5uToxue8vcLr-uclw
+
+2. 日前，The Verge 主编 Nilay Patel 对微软 AI 掌门人 Mustafa Suleyman 进行了一次专访，后者提到 conversational AI（对话式人工智能）将会是下一代网络浏览器，ChatGPT 等等聊天机器人将会成为互联网的新入口。
+
+   https://mp.weixin.qq.com/s/UbHOkmM_lXYGpULqC55A8A
+
+3. 绿米经销商往事：重资产、盈利难。据《2024年智能家居研究报告》数据显示，预计2025年国内智能家居市场规模有望突破万亿。但万亿市场规模却是从厂商到经销商到设计师都不赚钱，整个行业的钱到底流向了哪呢？
+
+   https://mp.weixin.qq.com/s/2iBU6N07CMbu8thbJYjOWw
+
+4. 11月，比亚迪的一封“降价10%”的邮件掀起供应商的怨声载道。邮件中，比亚迪要求供应商森萨塔从2025年1月1日起，将供货产品降价10%。由于邮件语气过于强硬，让人觉得不像是商量，而更像“通知”，一时引起了诸多供应商的不满。汽车行业的变局已然开始，谁能熬过这一轮风暴，谁又会在无休止地价格内卷中沉没？
+
+   https://mp.weixin.qq.com/s/pAJNjMgMsfQiZfeojGF4lw
+
+5. 蚂蚁集团参投，全球最大物流机器人公司“极智嘉”赴港 IPO。极智嘉被视为全球最大的仓储履约 AMR（自主移动机器人）解决方案提供商，有望成为移动机器人本体赛道第一股。
+
+   https://mp.weixin.qq.com/s/93Y4MxcK9_ghnDibmrh-lg
+
+6. “应该禁止所有新项目使用 React！”微软资深工程师犀利 diss：“React 是行业标准”简直胡说！
+
+   https://mp.weixin.qq.com/s/q4YYbv2Po4vDmWB6FMNG9g
+
+7. 「开源中国」用 uni-app 重构了——新版 APP。你是否曾想过，使用 uni-app 也能构建社区 App？
+
+   https://mp.weixin.qq.com/s/tMIzQ-dDFtKJ4sT3DVW83A
+
+8. 一场有关创客、开源和搞钱的开源活动，将于2024年12月21日（周六）在上海浦东蘑菇云创客空间举办。感兴趣的小伙伴一定不要错过了哟！
+
+   https://mp.weixin.qq.com/s/0mz_0KKHDn9_RrLHjY4wXg
