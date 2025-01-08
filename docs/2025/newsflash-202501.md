@@ -56,7 +56,7 @@
 
    https://mp.weixin.qq.com/s/4E9qXGQZ7fQJlBDFWrNU6w
 
-2. 1月6日晚上，社交媒体上突然出现了一则关于“01万物散伙了，卡和预训练团队卖给阿里了”的传闻，迅速引发了业界的广泛关注。针对这一传闻，零一万物创始人兼CEO李开复迅速在朋友圈和官方渠道进行了辟谣，明确指出公司并未被收购，但确实经历了一些团队调整。
+2. 1月6日晚上，社交媒体上突然出现了一则关于“01万物散伙了，卡和预训练团队卖给阿里了”的传闻，迅速引发了业界的广泛关注。针对这一传闻，零一万物创始人兼 CEO 李开复迅速在朋友圈和官方渠道进行了辟谣，明确指出公司并未被收购，但确实经历了一些团队调整。
 
    https://mp.weixin.qq.com/s/UQcZhBuymi2n773e-X_IWw
 
@@ -91,4 +91,50 @@
 10. 最近，OpenAI 联合人工智能著名学者、斯坦福大学教授吴恩达推出了一门关于使用 o1 进行推理的免费 DeepLearning.AI 课程 —— Reasoning with o1，讲师是 OpenAI 战略解决方案架构主管 Colin Jarvis。这个课程内容主要包括：o1 即时工程的基础知识、规划和执行多步骤任务、创建和编辑代码、图像推理、可提高模型性能的 Metaprompting。
 
     https://mp.weixin.qq.com/s/5iS_846hoVYtwe2pg-61TQ
+
+
+
+## 2025.01.08
+
+2025年01月08日 💡行业快讯
+
+1. CES 2025 展会（国际消费电子产品展览会），萌友智能发布首款人工智能机器宠物 Ropet，能够基于视觉、声音传感器和 AI 技术，赋予毛绒外表的机器人识别人类动作、情绪，长期学习并作出反应的能力。目前，在全球最大的众筹平台 Kickstarter 上，Ropet 已筹款约20.2万美金，超过其最初设定筹款目标的150倍，已售出超过900台。
+
+   https://mp.weixin.qq.com/s/QrVYcvlvDVyMzQ-w-M_5Zg
+
+2. CES 2025 展会第一天，本次展会带来了很多智能硬件，本文分享10个让人哇塞的酷炫黑科技。例如 Mirumi 友情陪伴的机器人、带机械臂的智能扫地机器人、自收缩键盘、AI 智能眼镜、全方位健康监测镜等等。
+
+   https://mp.weixin.qq.com/s/YA_yZJm_c25-GpnvVhLJdQ
+
+3. 近日，在2024开放原子开发者大会暨首届开源技术学术大会，隆重推出了最新的开源协议——开放原子开放硬件许可证（OpenAtom Open Hardware License, Version 1.0）。这是一个毋庸置疑的，全力支持硬件开源的许可证，保障了创作者的“硬件源信息”、“补充材料”等知识产权。目前，该开源协议已在立创开源硬件平台上线。
+
+   https://mp.weixin.qq.com/s/aEJ4yYkRwvDZkhKqzkhyww
+
+4. 近日，广东高域科技有限公司成立，法定代表人为广汽飞行汽车研发负责人、“高域”创始人苏庆鹏，注册资本2.3亿元。随着此番高域科技公司的成立，广汽布局飞行汽车领域又落下了关键一子。正如广汽集团总经理冯兴亚所表示，未来广汽集团将以高域品牌为基础，持续推动低空经济领域的产业布局和技术创新。
+
+   https://mp.weixin.qq.com/s/2r_exFV2sRkegXHCG79ENw
+
+5. 新能源车企争夺市场之际，无线充电逐渐走入大众视野。而在无线充电领域，已经有一家服务上百个客户的企业——犀能科技（Xnergy）。犀能科技于2018年在新加坡成立，以大功率无线充电解决方案为核心产品，聚焦移动机器人与新能源等领域，产品销往欧美、亚洲等20多个国家。
+
+   https://mp.weixin.qq.com/s/xDZFMbVuUqn_dVIGqlEGuw
+
+6. 1月6日，“共享充电第一股”怪兽充电官方宣布，以每股美国存托凭证（ADS）1.25美元的现金价格收购公司所有已发行的普通股。怪兽充电于2021年在美国纳斯达克高调上市，彼时 IPO 的价格为8.5美元，总市值达23亿美元。上市不到四年，公司业绩大幅下降，市值已经缩水超90%。
+
+   https://mp.weixin.qq.com/s/1O6lxOMebpar_RBkDJdaNA
+
+7. 前段时间，一家 600人的 AI 中医公司“鹰之眼”突然宣布解散。本文介绍该公司解散的前因后果，并分析 AI 医疗行业的问题。
+
+   https://mp.weixin.qq.com/s/ly_PEOq-zo9lLX6Om8xJuA
+
+8. 立创 EDA 课程案例推荐：成本30元的开源机器狗 EDA-Robot。
+
+   https://mp.weixin.qq.com/s/ffJRR1WlqforeGpPUUow-g
+
+9. 1000名工作狂的自白，看完你就悟了。
+
+   https://mp.weixin.qq.com/s/MJn4hJ8MEEiinZhAtxaWQw
+
+10. 一人公司：为独行者打造的完美剧本。
+
+    https://mp.weixin.qq.com/s/KmytE6-6xyzsFM03-Qcvmg
 
