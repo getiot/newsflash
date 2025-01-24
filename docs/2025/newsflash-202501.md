@@ -183,3 +183,49 @@
 10. 立创开源硬件平台评选出2024年度20位开源达人以及他们的代表作，相信榜样的力量会激发更多有创意的人。
 
     https://mp.weixin.qq.com/s/9Nz6ynmCa6uHRnP9YPj52Q
+
+
+
+## 2025.01.25
+
+2025年01月25日 💡行业快讯
+
+1. 小米汽车科技有限公司向国家市场监督管理总局备案了召回计划，召回2024年2月6日至2024年11月26日生产的部分 SU7 标准版电动汽车，共计 30931 台。本次召回范围内部分车辆因软件策略问题，可能导致授时同步异常，影响智能泊车辅助功能对静态障碍物的探测，增加剐蹭或碰撞的风险，存在安全隐患。
+
+   https://mp.weixin.qq.com/s/dnc6cdbwjVWNfq3f2SdQIA
+
+2. QuestMobile 发布2024年 AIGC 应用发展年度报告 —— AI 原生 APP 三强争霸，AI 应用“四大模式”形成，智能体数量超过小程序。
+
+   https://mp.weixin.qq.com/s/25PU13EM-NfzKbKnnXc-8A
+
+3. 开源中国 OSCHINA、Gitee 与 Gitee AI 联合发布《2024中国开源开发者帮报告》，对过去一年的技术演进动态、技术趋势、以及开源开发者生态数据进行多方位的总结和梳理。
+
+   https://mp.weixin.qq.com/s/0bgb1v_FzHOTVqgg0CNhKA
+
+4. 近日，美的集团董事长兼总裁方洪波签发了一份《关于简化工作方式的要求》的文件，要求员工简化“表演式工作”，引发热议。该文件显示，美的要求全员简化工作方式。“任何不以用户为中心、不以业务为中心、不以一线为中心，不产生价值，不增加收入的工作都属于表演式工作，需要全员果断简化。”
+
+   https://mp.weixin.qq.com/s/ce-s_gLBzCgFONn7cBAl3w
+
+5. 近日，据路透社报道，中国三家电动汽车巨头 —— 比亚迪、吉利和上汽集团，已就欧盟对中国产电动汽车加征反补贴税一事，向欧盟普通法院提起诉讼。
+
+   https://mp.weixin.qq.com/s/bs6A227u3t6blIHm-Z0sKQ
+
+6. 美国造车新势力 Canoo 宣布已向特拉华州美国破产法院提交自愿请愿书。从 Canoo 历年财报综合来看，从2020年到2024年9月，该公司累计亏损了13.56亿美元（约合人民币98.99亿元），将近人民币一百亿元。
+
+   https://mp.weixin.qq.com/s/PyJ55MbUbKHdpsdobuj6Dg
+
+7. 百度文库借 AI 杀出重围，月活超 7000 万，这个诞生十多年的老牌产品，成为了 AI 时代的新秀。
+
+   https://mp.weixin.qq.com/s/InWpOvH-moHMTaLgyBkA1A
+
+8. 1月20日，特朗普在美国第47任总统就职典礼上宣誓，华盛顿权力中心最重要的位置终于换岗了。
+
+   https://mp.weixin.qq.com/s/ddpK1nvfAzXFmU6EbgefaA
+
+9. 故事：L4 无人车的十年江湖，离开 Waymo 的日子。
+
+   https://mp.weixin.qq.com/s/vfl2CDfBnOxbb8qhmmvqQA
+
+10. 分析：微博之夜被拆台，抛开娱乐名场面，微博还剩什么？
+
+    https://mp.weixin.qq.com/s/fcU5c-yqhJrVRD6IZhofNQ
