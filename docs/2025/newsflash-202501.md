@@ -233,3 +233,49 @@
 11. 分析：微博之夜被拆台，抛开娱乐名场面，微博还剩什么？
 
     https://mp.weixin.qq.com/s/fcU5c-yqhJrVRD6IZhofNQ
+
+
+
+## 2025.01.29
+
+2025年01月29日 💡行业快讯
+
+1. 创造历史！DeepSeek 超越 ChatGPT 登顶中美 AppStore。
+
+   https://mp.weixin.qq.com/s/POQNciEdLeFqlK8iA981kQ
+
+2. DeepSeek 砍掉英伟达台积电5万亿市值！登五大外媒头版，OpenAI 急得发预告。
+
+   https://mp.weixin.qq.com/s/hqgiQzotRmwc6G4GOahVfA
+
+3. 一场关于 DeepSeek 的高质量闭门会：比技术更重要的是愿景。
+
+   https://mp.weixin.qq.com/s/a7C5NjHbMGh2CLYk1bhfYw
+
+4. DeepSeek 梁文锋深夜回信：致所有在黑暗里点灯的人。
+
+   https://mp.weixin.qq.com/s/bud7FZupu1q0D8Yz8UNyJA
+
+5. DeepSeek 危及美国国家安全？火爆海外开源社区，衍生模型超 670 个。
+
+   https://mp.weixin.qq.com/s/nMWag9bRjpCL9pwjf5pIsQ
+
+6. DeepSeek 给普通人的启示。
+
+   https://mp.weixin.qq.com/s/dqzuP62cEaFUwsy9pHclbw
+
+7. 蛇年春晚《秧BOT》这群穿花袄扭秧歌的机器人，到底什么来头？
+
+   https://mp.weixin.qq.com/s/cKPqN8dcQ-KzoiXaHQ_jlg
+
+8. 宇树科技机器人概念股（供应商、业务合作商）梳理。
+
+   https://mp.weixin.qq.com/s/QyR11SVfTJD8nir_w3Lj6g
+
+9. 腾讯研究院2025年新春书单：值得读的15本书。
+
+   https://mp.weixin.qq.com/s/UyFxl0CZ74DCOG91fLHERQ
+
+10. 最新 GDP 十强城市也正式出炉，2024年 GDP 十强城市依次为：上海、北京、深圳、重庆、广州、苏州、成都、杭州、武汉、南京。
+
+    https://mp.weixin.qq.com/s/dnqCKW21XEpBHin53cGA3w
