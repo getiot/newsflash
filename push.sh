@@ -4,7 +4,7 @@ current_date=$(date +'%Y%m%d')
 
 commit_message="docs: add ${current_date} news flash"
 
-#git add .
+git add .
 git commit -m "$commit_message"
 
 remotes=$(git remote -v | awk '{print $1}' | sort | uniq)
