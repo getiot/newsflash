@@ -45,3 +45,49 @@
 10. 美国总统特朗普退出世卫组织和《巴黎协定》，香港英文媒体《南华早报》援引分析人士的话称，与特朗普相比，中国对国家和全球公共卫生有着更强的责任感，特朗普的“退群”决定也许会对全球气候变化和公共卫生治理造成严重打击，同时留下一个有待中国填补的“领导权真空”。
 
     https://mp.weixin.qq.com/s/nlhuNlgmMC36bfBLAbKegg
+
+
+
+## 2025.02.10
+
+2025年02月10日 💡行业快讯
+
+1. 近日，台积电向一大批中国大陆 IC 芯片设计公司发出通知，要求从2025年1月31日起，如果16/14纳米及以下制程的相关产品，不在美国商务部工业与安全局（BIS）白名单中的“approved OSAT”进行封装，而且台积电没有收到该封装厂的认证签署副本，这些产品将被暂停发货。
+
+   https://mp.weixin.qq.com/s/-S2CVk3hisHfcmcp9xDT2Q
+
+2. 近日，自动化测试解决方案领先供应商泰瑞达（Teradyne Inc.）的机器人部门公开宣布裁员 10%，其中丹麦总部裁员6%，包括旗下的优傲机器人和 MiR 自主移动机器人团队。值得注意的是，在裁员信息公布的前两天，泰瑞达才宣布将收购半导体巨头英飞凌位于德国雷根斯堡的自动测试设备技术及相关开发团队，共计约 80 人。
+
+   https://mp.weixin.qq.com/s/omMBp9rDPFwkdPtGtHUwwQ
+
+3. 彭博社消息指出，为应对工业和汽车领域持续不振的需求，意法半导体正考虑实施员工提前退休及自然流失策略，以缩减其员工队伍约 6%。目前，意法半导体拥有员工总数超过 5 万人，6% 大约为 2000 至 3000 人。
+
+   https://mp.weixin.qq.com/s/ijR7GVXdUh1v2_we4B-Wew
+
+4. 春节期间，DeepSeek 热潮席卷全球。数据显示，DeepSeek-V3 训练成本只有 Llama 3的1%，DeepSeek-R1 推理成本只有 OpenAI o1 的 3%。这意味着开源大模型对闭源将造成冲击，这也是 DeepSeek 引发美股科技股恐慌的主要原因之一。
+
+   https://mp.weixin.qq.com/s/Muy78fRxkXuYzrRB_lNkzg
+
+5. 美国总统特朗普公开发表，认为 DeepSeek 不会对国家安全构成威胁，美国最终可以从这家初创公司的人工智能（AI）创新中“受益”。
+
+   https://mp.weixin.qq.com/s/UudsRAwAG7LW6Ja9GtBEtA
+
+6. 特朗普就职典礼次日在白宫宣布美国将启动一项名为 “星际之门”（Stargate） 的超级人工智能计划 —— 投入5000亿美元，建设全球规模最大的 AI 基础设施。OpenAI CEO 萨姆·奥尔特曼、甲骨文创始人拉里·埃里森、软银董事长孙正义共同亮相，隐喻着科技、资本、数据的三方联手了。
+
+   https://mp.weixin.qq.com/s/PAVvenRslksWdJic8YokOw
+
+7. OpenAI CEO 山姆·奥特曼提出 AI 经济学观察，强调 AGI 的好处应该广泛惠及所有人，到了2035年，任何人掌握的智能资源都能媲美2025年整个人类的智慧总和，每个人都能自由地驾驭无穷的智慧，实现自己的想象力。
+
+   https://mp.weixin.qq.com/s/5G4I9todCTk-FXTFubKKSw
+
+8. 晚点回望 2024：随着 B 站在 2024 年三季度实现盈亏平衡，中国 Top 15 互联网公司首次全部盈利，但未来更受考验。
+
+   https://mp.weixin.qq.com/s/VaWJNoUcZG0KhaMsCC564Q
+
+9. 何小鹏详细回顾小鹏汽车创业血泪史：被下属合伙欺骗，花了9个月才恍然大悟。
+
+   https://mp.weixin.qq.com/s/lohixeCDX-pckYPP3y9mxA
+
+10. 去年年底，东京都知事小池百合子宣布，计划从2025年4月起，为东京都的所有公务员引入“上四休三”工作制。可面对这多出来的一天假期，部分日本人却是一点儿都高兴不起来。
+
+    https://mp.weixin.qq.com/s/JmtI2sW872VBgQ2Rvb4wuQ
