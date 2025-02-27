@@ -280,3 +280,48 @@
 
     https://mp.weixin.qq.com/s/pRADL27l8nwD-5ye9OJDnw
 
+
+
+## 2025.02.27
+
+2025年02月27日 💡行业快讯
+
+1. DeepSeek 开源周第4天，发布了一套专为大规模 AI 模型设计的并行计算策略优化工具，包括 DualPipe（用于 V3/R1 训练的双向流水线并行算法）、EPLB（专为 V3/R1 设计的专家并行负载均衡器）和 Profile-data（分析 V3/R1 中计算与通信重叠的性能数据集）三个项目。
+
+   https://mp.weixin.qq.com/s/6vgJi5BrsIQipkg__Jx8dA
+
+2. DeepSeek 公司26日宣布，即日起，北京时间每日 00:30 至 08:30 的夜间空闲时段，DeepSeek 开放平台推出错峰优惠活动。在此期间，API 调用价格大幅下调：DeepSeek-V3 降至原价的 50%，DeepSeek-R1 更是低至 25%。
+
+   https://mp.weixin.qq.com/s/nSagD1P_SiT8iMSN2heS3Q
+
+3. 百度25日宣布完成对欢聚集团旗下 YY 直播的收购。据悉，这笔收购早在2020年就签订协议，当时总收购价约为现金36亿美元，而4年后的收购价约为20亿美元。
+
+   https://mp.weixin.qq.com/s/q-_Sir6gn2CD4tKs-rvdlA
+
+4. 百度地图、腾讯地图 APP 接入 DeepSeek-R1 大模型，可以在地图的基础上结合 DeepSeek 做一些场景的实际应用。例如在百度地图中输入“我从杭州到福州，福州一日游攻略”，就会触发调用 DeepSeek，列出了详细的旅游攻略，点击攻略中的景点可以直接定位到地图上，非常方便。
+
+   https://mp.weixin.qq.com/s/Y-_Qpq05FdA87SImABhIvQ
+
+5. 2 月初，Keep 的创始人王宁通过一封全员信宣布公司将「All in AI」，旨在将在线健身从简单的推荐服务升级为内容生成，持续引领运动科技行业的发展。那么，All in AI 之后，Keep 究竟要做怎样的产品呢？线上健身赛道的未来如何？
+
+   https://mp.weixin.qq.com/s/MtbI4XEtjAhm9re7EpFiAw
+
+6. 2月21日，中国绿色供应链联盟光伏专委会光伏回收产业发展合作中心秘书长吕芳告诉经济观察网：“光伏回收现在是行业内为数不多的蓝海市场。” 本文带你一起了解光伏回收这个新兴产业。
+
+   https://mp.weixin.qq.com/s/Q5Xu6QepIV5bNhFjuJIRYw
+
+7. 鹏华碳中和主题基金是2024年的年内冠军基金，近日发布限购公告：自2月24日起，将个人投资者单日累计申购上限设置为100万元。Wind 数据显示，截至2月20日，鹏华碳中和主题基金年内收益率达到 65.79%，暂列全市场公募基金年内业绩冠军。最近一年，该基金收益率高达 120.24%。
+
+   https://mp.weixin.qq.com/s/zwhbo8zy6XP4IxhDiwmbsA
+
+8. 前华为工程师入局激光雕刻机小众硬件赛道，LaserPecker 品牌年销售额达5亿元。LaserPecker 如何让激光雕刻机从“小众极客玩具”走向大众刚需？看看这个创业故事给我们带来什么启发。
+
+   https://mp.weixin.qq.com/s/vPUjOhbFKr6Oh6MO3btwtg
+
+9. 腾讯《AGI 之路》第二期：邀请中国人民大学吴玉章讲席教授刘永谋、经济观察报专栏作家《比较》研究部主管陈永伟，全面解读以 DeepSeek 为代表的大模型，所推动的这场“平权运动”。两小时的思想碰撞，10000 字深度思考 —— 人类会被 AI 淘汰吗？值得一读。
+
+   https://mp.weixin.qq.com/s/GsIoufaD-dMRESLDLe3pxA
+
+10. 这两年失业的人越来越多，今天分享一个真实故事：985 程序员被裁员失业在家，全职炒股一年后离婚。祝大家一切顺利。
+
+    https://mp.weixin.qq.com/s/nCJ7hQI_sQP7u5WR70TBfA
