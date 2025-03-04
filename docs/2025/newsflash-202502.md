@@ -252,7 +252,7 @@
 
    https://mp.weixin.qq.com/s/5uGB_WmiCnvGMo3G3PtGUQ
 
-4. DeepSeek 在“开源周”的第二日开源了 DeepGEMM，是一个专为干净、高效的 FP8 通用矩阵乘法（GEMM）而设计的库，具有细粒度缩放功能。如 DeepSeek-V3 中所述，它支持普通和混合专家（MoE）分组 GEMM。该库用 CUDA 编写，在安装过程中无需编译，而是使用轻量级即时（JIT）模块在运行时编译所有内核。值得一提的是，DeepGEMM 的核心逻辑仅约 300 行代码，却在大多数矩阵尺寸上超越了专家级别调优的内核。
+4. DeepSeek 在“开源周”的第三日开源了 DeepGEMM，是一个专为干净、高效的 FP8 通用矩阵乘法（GEMM）而设计的库，具有细粒度缩放功能。如 DeepSeek-V3 中所述，它支持普通和混合专家（MoE）分组 GEMM。该库用 CUDA 编写，在安装过程中无需编译，而是使用轻量级即时（JIT）模块在运行时编译所有内核。值得一提的是，DeepGEMM 的核心逻辑仅约 300 行代码，却在大多数矩阵尺寸上超越了专家级别调优的内核。
 
    https://mp.weixin.qq.com/s/LyPi2r5sz2vrOOPRd232MQ
 
